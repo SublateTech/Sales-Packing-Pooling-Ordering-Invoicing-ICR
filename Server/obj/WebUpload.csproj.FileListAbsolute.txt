@@ -1,0 +1,15 @@
+D:\Signature Server\bin\Release\WEBUpload.exe.config
+D:\Signature Server\obj\Release\WEBUpload.exe
+D:\Signature Server\bin\Release\WEBUpload.exe
+D:\Signature Server\bin\Release\Interop.dSERVE2.dll
+D:\Signature Server\obj\Release\ResolveAssemblyReference.cache
+D:\Signature Server\obj\Release\SystemTrayApp.logo.ico
+D:\Signature Server\obj\Release\WEBGateWay.frmOrderStatus.resources
+D:\Signature Server\obj\Release\WebUpload.csproj.GenerateResource.Cache
+D:\Signature Server\bin\Debug\WEBUpload.exe.config
+D:\Signature Server\obj\Debug\WEBUpload.exe
+D:\Signature Server\obj\Debug\WEBUpload.pdb
+D:\Signature Server\bin\Debug\WEBUpload.exe
+D:\Signature Server\bin\Debug\WEBUpload.pdb
+D:\Signature Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Signature Server\obj\Debug\SystemTrayApp.logo.ico

@@ -1,0 +1,19 @@
+D:\Signature.com\SigData\Signature.Zonal.dll
+D:\Signature.com\SigData\Signature.Zonal.pdb
+D:\WAP - Copy\Zonal\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Zonal\obj\Debug\Signature.Zonal.Properties.Resources.resources
+D:\WAP - Copy\Zonal\obj\Debug\Signature.Zonal.csproj.GenerateResource.Cache
+D:\WAP - Copy\Zonal\obj\Debug\Signature.Zonal.dll
+D:\WAP - Copy\Zonal\obj\Debug\Signature.Zonal.pdb
+D:\Adobe 2008\Zonal\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\Zonal\obj\Debug\Signature.Zonal.Properties.Resources.resources
+D:\Adobe 2008\Zonal\obj\Debug\Signature.Zonal.csproj.GenerateResource.Cache
+D:\Adobe 2008\Zonal\obj\Debug\Signature.Zonal.dll
+D:\Adobe 2008\Zonal\obj\Debug\Signature.Zonal.pdb
+D:\SigData\bin\Signature.Zonal.dll
+D:\SigData\bin\Signature.Zonal.pdb
+D:\SigData\Zonal\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Zonal\obj\Debug\Signature.Zonal.Properties.Resources.resources
+D:\SigData\Zonal\obj\Debug\Signature.Zonal.csproj.GenerateResource.Cache
+D:\SigData\Zonal\obj\Debug\Signature.Zonal.dll
+D:\SigData\Zonal\obj\Debug\Signature.Zonal.pdb

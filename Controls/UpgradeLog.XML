@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MaskedEdit">
+</Property><Property Name="Solution File" Value="D:\SigData\Controls\MaskedEdit.sln">
+</Property><Property Name="Date" Value="viernes, 01 de julio de 2011">
+</Property><Property Name="Time" Value="15:33:07 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="MaskedEdit" Source="MaskedEdit.csproj" Description="Project file successfully backed up as D:\SigData\Controls\Backup1\MaskedEdit.csproj">
+</Event><Event ErrorLevel="0" Project="MaskedEdit" Source="MaskedEdit.csproj.user" Description="Project user file successfully backed up as D:\SigData\Controls\Backup1\MaskedEdit.csproj.user">
+</Event><Event ErrorLevel="0" Project="MaskedEdit" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\SigData\Controls\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MaskedEdit" Source="MaskedEdit.cs" Description="File successfully backed up as D:\SigData\Controls\Backup1\MaskedEdit.cs">
+</Event><Event ErrorLevel="0" Project="MaskedEdit" Source="MaskedEditDesigner.cs" Description="File successfully backed up as D:\SigData\Controls\Backup1\MaskedEditDesigner.cs">
+</Event><Event ErrorLevel="0" Project="MaskedEdit" Source="MaskedEdit.bmp" Description="File successfully backed up as D:\SigData\Controls\Backup1\MaskedEdit.bmp">
+</Event><Event ErrorLevel="2" Project="MaskedEdit" Source="MaskedEdit.resx" Description="Failed to backup file as D:\SigData\Controls\Backup1\MaskedEdit.resx">
+</Event><Event ErrorLevel="0" Project="MaskedEdit" Source="MaskedEditNumeric.bmp" Description="File successfully backed up as D:\SigData\Controls\Backup1\MaskedEditNumeric.bmp">
+</Event><Event ErrorLevel="0" Project="MaskedEdit" Source="MaskedEdit.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MaskedEdit" Source="MaskedEdit.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MaskedEdit" Source="MaskedEdit.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

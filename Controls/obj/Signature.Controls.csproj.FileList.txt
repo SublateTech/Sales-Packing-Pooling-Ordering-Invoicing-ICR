@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Signature.Windows.Forms.MaskedEdit.bmp
+obj\Debug\Signature.Windows.Forms.MaskedEditNumeric.bmp
+obj\Debug\Signature.Windows.Forms.TextEdit.bmp
+obj\Debug\Signature.Windows.Forms.logo.ico
+obj\Debug\Signature.Windows.Forms.Properties.Resources.resources
+obj\Debug\Signature.Controls.csproj.GenerateResource.Cache
+obj\Debug\Signature.Windows.Forms.dll.licenses
+..\..\Signature.com\SigData\Signature.Windows.Forms.dll
+..\..\Signature.com\SigData\Signature.Windows.Forms.pdb
+obj\Debug\Signature.Windows.Forms.dll
+obj\Debug\Signature.Windows.Forms.pdb

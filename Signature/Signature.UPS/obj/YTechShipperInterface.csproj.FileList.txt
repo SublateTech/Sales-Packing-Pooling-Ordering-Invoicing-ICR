@@ -1,0 +1,5 @@
+bin\Debug\YTechShipperInterface.dll
+bin\Debug\YTechShipperInterface.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\YTechShipperInterface.dll
+obj\Debug\YTechShipperInterface.pdb

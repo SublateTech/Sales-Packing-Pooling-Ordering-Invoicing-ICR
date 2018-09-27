@@ -1,0 +1,10 @@
+bin\Debug\Signature.TwainGui.dll
+bin\Debug\Signature.TwainGui.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Signature.Twain.csproj.GenerateResource.Cache
+..\..\..\Signature.com\SigData\Signature.Twain.dll
+..\..\..\Signature.com\SigData\Signature.Twain.pdb
+obj\Debug\Signature.Twain.dll
+obj\Debug\Signature.Twain.pdb
+obj\Debug\Signature.Twain.PicForm.resources
+obj\Debug\Signature.Twain.InfoForm.resources

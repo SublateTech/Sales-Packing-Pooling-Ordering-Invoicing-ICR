@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6F1B13F3-39F0-4A96-847A-D54E2DD8F202}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Signature.Classes</RootNamespace>
+    <AssemblyName>Signature.Classes</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\Signature.com\SigData\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="BaseClass.cs" />
+    <Compile Include="Brochure.cs" />
+    <Compile Include="Box.cs" />
+    <Compile Include="BrochureByCustomer.cs" />
+    <Compile Include="BrochureType.cs" />
+    <Compile Include="CardByProduct.cs" />
+    <Compile Include="CardTemplate.cs" />
+    <Compile Include="CardSet.cs" />
+    <Compile Include="BlueRibbon.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="FedexLabel.cs" />
+    <Compile Include="PaymentProvider.cs" />
+    <Compile Include="ProductByRep.cs" />
+    <Compile Include="eMail.cs" />
+    <Compile Include="ExcelHelper.cs" />
+    <Compile Include="Imprinting.cs" />
+    <Compile Include="Voicemail.cs" />
+    <Compile Include="Image.cs" />
+    <Compile Include="Pack.cs" />
+    <Compile Include="Ticket.cs" />
+    <Compile Include="GA_OrderInternet.cs" />
+    <Compile Include="Daemon.cs" />
+    <Compile Include="OSInfo.cs" />
+    <Compile Include="Pallet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Smtp.cs" />
+    <Compile Include="Processor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PDFWrapper.cs" />
+    <Compile Include="CustomerCall.cs" />
+    <Compile Include="Inventory.cs" />
+    <Compile Include="MyCollection.cs" />
+    <Compile Include="OrderInternet.cs" />
+    <Compile Include="ParseWordDocument.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="UPSLabel.cs" />
+    <Compile Include="PineValley.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="User.cs" />
+    <Compile Include="TaxByState.cs" />
+    <Compile Include="CoverSheet.cs" />
+    <Compile Include="Shortage.cs" />
+    <Compile Include="Rep.cs" />
+    <Compile Include="Receive.cs" />
+    <Compile Include="Purchase.cs" />
+    <Compile Include="Charge.cs" />
+    <Compile Include="Scanning.cs" />
+    <Compile Include="Printer.cs" />
+    <Compile Include="UPCA.cs" />
+    <Compile Include="UserActivityHook.cs" />
+    <Compile Include="Vendor.cs" />
+    <Compile Include="Discrepancy.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Invoice.cs" />
+    <Compile Include="Packing.cs" />
+    <Compile Include="Company.cs" />
+    <Compile Include="FTP.cs" />
+    <Compile Include="GA_Giftco.cs" />
+    <Compile Include="GA_Box.cs" />
+    <Compile Include="GA_Kit.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PackingSection.cs" />
+    <Compile Include="Teacher.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="Hashlist.cs" />
+    <Compile Include="Order.cs" />
+    <Compile Include="Prize.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="ScannedImage.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Business Objects\Common\2.8\managed\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="itextsharp, Version=5.0.2.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=6.2.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="PegasusImaging.WinForms.FormFix3, Version=3.0.39.0, Culture=neutral, PublicKeyToken=80d669b8b606a2da" />
+    <Reference Include="PegasusImaging.WinForms.ImagXpress9, Version=9.0.31.0, Culture=neutral, PublicKeyToken=80d669b8b606a2da, processorArchitecture=MSIL" />
+    <Reference Include="PegasusImaging.WinForms.NotateXpress9, Version=9.0.25.0, Culture=neutral, PublicKeyToken=80d669b8b606a2da, processorArchitecture=MSIL" />
+    <Reference Include="PegasusImaging.WinForms.ScanFix5, Version=5.0.62.0, Culture=neutral, PublicKeyToken=80d669b8b606a2da" />
+    <Reference Include="PegasusImaging.WinForms.SmartZone2, Version=2.0.13.0, Culture=neutral, PublicKeyToken=80d669b8b606a2da, processorArchitecture=MSIL" />
+    <Reference Include="Signature.Card, Version=1.0.3547.34767, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Signature.Data, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Signature.Forms, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Signature.Reports, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Signature.Vista, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Signature.Windows.Forms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=472f3da159dc640c, processorArchitecture=MSIL" />
+    <Reference Include="Signature.Zonal, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+    <Reference Include="Infragistics2.Shared.v9.1, Version=9.1.20091.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files\Infragistics\NetAdvantage for .NET 2009.1\windows forms\bin\Infragistics2.Shared.v9.1.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Infragistics2.Win.Misc.v9.1, Version=9.1.20091.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files\Infragistics\NetAdvantage for .NET 2009.1\windows forms\bin\Infragistics2.Win.Misc.v9.1.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinStatusBar.v9.1, Version=9.1.20091.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files\Infragistics\NetAdvantage for .NET 2009.1\windows forms\bin\Infragistics2.Win.UltraWinStatusBar.v9.1.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Infragistics2.Win.v9.1, Version=9.1.20091.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files\Infragistics\NetAdvantage for .NET 2009.1\windows forms\bin\Infragistics2.Win.v9.1.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skin3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <Private>False</Private>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\logo.ico" />
+  </ItemGroup>
+</Project>

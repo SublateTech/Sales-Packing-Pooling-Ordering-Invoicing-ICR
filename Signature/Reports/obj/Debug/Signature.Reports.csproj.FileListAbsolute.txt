@@ -1,0 +1,33 @@
+D:\WAP - Copy\Signature\Reports\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Signature\Reports\obj\Debug\Signature.Reports.frmViewReport.resources
+D:\WAP - Copy\Signature\Reports\obj\Debug\Signature.Reports.csproj.GenerateResource.Cache
+D:\WAP - Copy\Signature\Reports\obj\Debug\Signature.Reports.dll.licenses
+D:\WAP - Copy\Signature\Reports\obj\Debug\Signature.Reports.dll
+D:\WAP - Copy\Signature\Reports\obj\Debug\Signature.Reports.pdb
+D:\Signature.com\SigData\Signature.Reports.dll.config
+D:\Signature.com\SigData\Signature.Reports.dll
+D:\Signature.com\SigData\Signature.Reports.pdb
+D:\Adobe 2008\Signature\Reports\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\Signature\Reports\obj\Debug\Signature.Reports.frmViewReport.resources
+D:\Adobe 2008\Signature\Reports\obj\Debug\Signature.Reports.csproj.GenerateResource.Cache
+D:\Adobe 2008\Signature\Reports\obj\Debug\Signature.Reports.dll.licenses
+D:\Adobe 2008\Signature\Reports\obj\Debug\Signature.Reports.dll
+D:\Adobe 2008\Signature\Reports\obj\Debug\Signature.Reports.pdb
+C:\Signature.com\SigData\Signature.Reports.dll.config
+C:\Signature.com\SigData\Signature.Reports.dll
+C:\Signature.com\SigData\Signature.Reports.pdb
+C:\Adobe 2008\Signature\Reports\obj\Debug\ResolveAssemblyReference.cache
+C:\Adobe 2008\Signature\Reports\obj\Debug\Signature.Reports.frmViewReport.resources
+C:\Adobe 2008\Signature\Reports\obj\Debug\Signature.Reports.csproj.GenerateResource.Cache
+C:\Adobe 2008\Signature\Reports\obj\Debug\Signature.Reports.dll.licenses
+C:\Adobe 2008\Signature\Reports\obj\Debug\Signature.Reports.dll
+C:\Adobe 2008\Signature\Reports\obj\Debug\Signature.Reports.pdb
+D:\SigData\bin\Signature.Reports.dll.config
+D:\SigData\bin\Signature.Reports.dll
+D:\SigData\bin\Signature.Reports.pdb
+D:\SigData\Signature\Reports\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Signature\Reports\obj\Debug\Signature.Reports.frmViewReport.resources
+D:\SigData\Signature\Reports\obj\Debug\Signature.Reports.csproj.GenerateResource.Cache
+D:\SigData\Signature\Reports\obj\Debug\Signature.Reports.dll.licenses
+D:\SigData\Signature\Reports\obj\Debug\Signature.Reports.dll
+D:\SigData\Signature\Reports\obj\Debug\Signature.Reports.pdb

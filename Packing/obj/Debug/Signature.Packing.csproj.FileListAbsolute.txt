@@ -1,0 +1,16 @@
+D:\Signature.com\SigData\Packing.exe.config
+D:\Signature.com\SigData\Packing.exe.manifest
+D:\Signature.com\SigData\Packing.application
+D:\Signature.com\SigData\Packing.exe
+D:\Signature.com\SigData\Packing.pdb
+D:\WAP - Copy\Packing\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Packing\obj\Debug\Signature.frmBase.resources
+D:\WAP - Copy\Packing\obj\Debug\Signature.frmPacking.resources
+D:\WAP - Copy\Packing\obj\Debug\Signature.Properties.Resources.resources
+D:\WAP - Copy\Packing\obj\Debug\Signature.Packing.csproj.GenerateResource.Cache
+D:\WAP - Copy\Packing\obj\Debug\Packing.exe.licenses
+D:\WAP - Copy\Packing\obj\Debug\Packing.TrustInfo.xml
+D:\WAP - Copy\Packing\obj\Debug\Packing.exe.manifest
+D:\WAP - Copy\Packing\obj\Debug\Packing.application
+D:\WAP - Copy\Packing\obj\Debug\Packing.exe
+D:\WAP - Copy\Packing\obj\Debug\Packing.pdb

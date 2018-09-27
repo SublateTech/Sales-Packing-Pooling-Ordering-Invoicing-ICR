@@ -1,0 +1,21 @@
+D:\WAP - Copy\Scanning\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Scanning\obj\Debug\Signature.frmBase.resources
+D:\WAP - Copy\Scanning\obj\Debug\Signature.frmScanning.resources
+D:\WAP - Copy\Scanning\obj\Debug\Signature.frmTimerMessage.resources
+D:\WAP - Copy\Scanning\obj\Debug\Signature.Properties.Resources.resources
+D:\WAP - Copy\Scanning\obj\Debug\Signature.Scanning.csproj.GenerateResource.Cache
+D:\WAP - Copy\Scanning\obj\Debug\Scanning.exe.licenses
+D:\Adobe 2008\Scanning\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\Scanning\obj\Debug\Signature.frmBase.resources
+D:\Adobe 2008\Scanning\obj\Debug\Signature.frmScanning.resources
+D:\Adobe 2008\Scanning\obj\Debug\Signature.frmTimerMessage.resources
+D:\Adobe 2008\Scanning\obj\Debug\Signature.Properties.Resources.resources
+D:\Adobe 2008\Scanning\obj\Debug\Signature.Scanning.csproj.GenerateResource.Cache
+D:\Adobe 2008\Scanning\obj\Debug\Scanning.exe.licenses
+D:\SigData\Scanning\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Scanning\obj\Debug\Signature.frmBase.resources
+D:\SigData\Scanning\obj\Debug\Signature.frmScanning.resources
+D:\SigData\Scanning\obj\Debug\Signature.frmTimerMessage.resources
+D:\SigData\Scanning\obj\Debug\Signature.Properties.Resources.resources
+D:\SigData\Scanning\obj\Debug\Signature.Scanning.csproj.GenerateResource.Cache
+D:\SigData\Scanning\obj\Debug\Scanning.exe.licenses

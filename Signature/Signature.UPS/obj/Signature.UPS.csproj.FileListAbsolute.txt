@@ -1,0 +1,12 @@
+D:\Adobe\Signature\Signature.UPS\obj\Release\ResolveAssemblyReference.cache
+D:\Adobe\Signature\Signature.UPS\obj\Release\Signature.UPS.dll
+D:\Signature.com\SigData\Signature.UPS.dll
+D:\Signature.com\SigData\Signature.UPS.pdb
+D:\Adobe\Signature\Signature.UPS\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe\Signature\Signature.UPS\obj\Debug\Signature.UPS.dll
+D:\Adobe\Signature\Signature.UPS\obj\Debug\Signature.UPS.pdb
+F:\Signature.com\SigData\Signature.UPS.dll
+F:\Signature.com\SigData\Signature.UPS.pdb
+F:\Adobe\Signature\Signature.UPS\obj\Debug\ResolveAssemblyReference.cache
+F:\Adobe\Signature\Signature.UPS\obj\Debug\Signature.UPS.dll
+F:\Adobe\Signature\Signature.UPS\obj\Debug\Signature.UPS.pdb

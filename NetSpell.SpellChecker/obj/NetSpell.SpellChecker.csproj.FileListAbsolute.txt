@@ -1,0 +1,26 @@
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\bin\Debug\NetSpell.SpellChecker.dll
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\bin\Debug\NetSpell.SpellChecker.pdb
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\bin\Debug\NetSpell.SpellChecker.xml
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\ResolveAssemblyReference.cache
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Dictionary.Dictionary.bmp
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Spelling.bmp
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Dictionary.WordDictionary.resources
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Forms.OptionForm.resources
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Forms.SuggestionForm.resources
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Spelling.resources
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.csproj.GenerateResource.Cache
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.dll
+D:\C# ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.pdb
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\bin\Debug\NetSpell.SpellChecker.dll
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\bin\Debug\NetSpell.SpellChecker.pdb
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\bin\Debug\NetSpell.SpellChecker.xml
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\ResolveAssemblyReference.cache
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Dictionary.Dictionary.bmp
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Spelling.bmp
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Dictionary.WordDictionary.resources
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Forms.OptionForm.resources
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Forms.SuggestionForm.resources
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.Spelling.resources
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.csproj.GenerateResource.Cache
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.dll
+D:\ICR\NetSpell\src\NetSpell.SpellChecker\obj\Debug\NetSpell.SpellChecker.pdb

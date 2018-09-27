@@ -1,0 +1,7 @@
+D:\C#\DWMRendererProvider\Maf.Drawing\bin\Debug\Maf.Drawing.dll
+D:\C#\DWMRendererProvider\Maf.Drawing\bin\Debug\Maf.Drawing.pdb
+D:\C#\DWMRendererProvider\Maf.Drawing\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\DWMRendererProvider\Maf.Drawing\obj\Debug\Maf.Drawing.Properties.Resources.resources
+D:\C#\DWMRendererProvider\Maf.Drawing\obj\Debug\Maf.Drawing.csproj.GenerateResource.Cache
+D:\C#\DWMRendererProvider\Maf.Drawing\obj\Debug\Maf.Drawing.dll
+D:\C#\DWMRendererProvider\Maf.Drawing\obj\Debug\Maf.Drawing.pdb

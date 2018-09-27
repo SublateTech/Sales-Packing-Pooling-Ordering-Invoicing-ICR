@@ -1,0 +1,17 @@
+D:\Adobe\Scanning\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe\Scanning\obj\Debug\Signature.frmBase.resources
+D:\Adobe\Scanning\obj\Debug\Signature.frmScanning.resources
+D:\Adobe\Scanning\obj\Debug\Signature.Properties.Resources.resources
+D:\Adobe\Scanning\obj\Debug\Scanning.csproj.GenerateResource.Cache
+D:\Adobe\Scanning\obj\Debug\Signature.frmTimerMessage.resources
+D:\Signature.com\SigData\Scanning.exe.config
+D:\Signature.com\SigData\Scanning.exe.manifest
+D:\Signature.com\SigData\Scanning.application
+D:\Signature.com\SigData\Scanning.exe
+D:\Signature.com\SigData\Scanning.pdb
+D:\Adobe\Scanning\obj\Debug\Scanning.exe.licenses
+D:\Adobe\Scanning\obj\Debug\Scanning.TrustInfo.xml
+D:\Adobe\Scanning\obj\Debug\Scanning.exe.manifest
+D:\Adobe\Scanning\obj\Debug\Scanning.application
+D:\Adobe\Scanning\obj\Debug\Scanning.exe
+D:\Adobe\Scanning\obj\Debug\Scanning.pdb

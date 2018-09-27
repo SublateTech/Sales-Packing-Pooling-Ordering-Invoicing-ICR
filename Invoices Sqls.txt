@@ -1,0 +1,43 @@
+SELECT od.CustomerID, od.OrderID, od.ProductID, bd.BrochureID, bc.ProfitPercent, p.Price, od.Quantity, IF (p.Taxable='N' or p.Taxable is null,0,1) as Taxable,c.SalesTax  FROM OrderDetail od Left Join Customer c On od.CompanyID=c.CompanyID And od.CustomerID=c.CustomerID Left Join Product p On od.CompanyID=p.CompanyID And od.ProductID=p.ProductID Left Join BrochureByCustomer bc On od.CompanyID=bc.CompanyID And od.CustomerID=bc.CustomerID  Left Join BrochureDetail bd On od.CompanyID=bd.CompanyID And od.ProductID=bd.ProductID Where od.CustomerID="91427" Order By bd.BrochureID,od.ProductID
+
+SELECT od.ProductID, p.Description, od.Quantity, round(p.Price*(1-bc.ProfitPercent/100)) as Cost,  p.Price, od.CustomerID, od.OrderID,  bd.BrochureID, bc.ProfitPercent,   IF (p.Taxable='N' or p.Taxable is null,0,1) as Taxable,c.SalesTax  FROM OrderDetail od Left Join Customer c On od.CompanyID=c.CompanyID And od.CustomerID=c.CustomerID Left Join Product p On od.CompanyID=p.CompanyID And od.ProductID=p.ProductID Left Join BrochureByCustomer bc On od.CompanyID=bc.CompanyID And od.CustomerID=bc.CustomerID  Left Join BrochureDetail bd On od.CompanyID=bd.CompanyID And od.ProductID=bd.ProductID Where od.CustomerID="91427" Order By bd.BrochureID,od.ProductID
+
+SELECT od.ProductID, p.Description, SUM(od.Quantity) as Quantity,
+round(p.Price*(1-bc.ProfitPercent/100),2) as Cost,
+sum(od.Quantity *ROUND(ROUND(p.Price*c.SalesTax/100,2)*IF(c.ApplyTax="Y",(1-bc.ProfitPercent/100),1),2)*IF(p.Taxable="Y",1,0)) as Tax ,
+sum(od.Quantity*round(p.Price*(1-bc.ProfitPercent/100),2) + od.Quantity * round(round(p.Price*c.SalesTax/100*IF(c.ApplyTax="Y",(1-bc.ProfitPercent/100),1),2),2)*IF(p.Taxable="Y",1,0)) as Total,
+SUM(p.Price*od.Quantity) as Retail,
+IF(c.ApplyTax="Y",1,0) as ApplyTax,
+p.Price, od.CustomerID, od.OrderID,  bd.BrochureID, bc.ProfitPercent,
+IF (p.Taxable='N' or p.Taxable is null,0,1) as Taxable,
+c.SalesTax
+FROM OrderDetail od
+Left Join Customer c On od.CompanyID=c.CompanyID And od.CustomerID=c.CustomerID
+Left Join Product p On od.CompanyID=p.CompanyID And od.ProductID=p.ProductID
+Left Join BrochureDetail bd On od.CompanyID=bd.CompanyID And od.ProductID=bd.ProductID
+Left Join BrochureByCustomer bc On od.CompanyID=bc.CompanyID And od.CustomerID=bc.CustomerID  And bd.BrochureID=bc.BrochureID
+Where od.CustomerID="1892" And od.CompanyID="F07" And bc.ProfitPercent is not null
+Group By od.CustomerID
+Order By od.ProductID
+
+
+//Considering Special Taxes By State
+SELECT od.ProductID, p.Description, SUM(od.Quantity) as Quantity,
+round(p.Price*(1-bc.ProfitPercent/100),2) as Cost,
+sum(od.Quantity *ROUND(ROUND(p.Price*c.SalesTax/100,2)*IF(c.ApplyTax="Y",(1-bc.ProfitPercent/100),1),2)*IF(ts.Taxable="Y",1,IF(p.Taxable="Y",1,0))) as Tax ,
+sum(od.Quantity*round(p.Price*(1-bc.ProfitPercent/100),2) + od.Quantity *ROUND(ROUND(p.Price*c.SalesTax/100,2)*IF(c.ApplyTax="Y",(1-bc.ProfitPercent/100),1),2)*IF(ts.Taxable="Y",1,IF(p.Taxable="Y",1,0))) as Total,
+SUM(p.Price*od.Quantity) as Retail,
+IF(ts.Taxable="Y",1,0) as TaxState,
+IF(c.ApplyTax="Y",1,0) as ApplyTax,
+p.Price, od.CustomerID, od.OrderID,  bd.BrochureID, bc.ProfitPercent,
+IF (p.Taxable='N' or p.Taxable is null,0,1) as Taxable,
+c.SalesTax
+FROM OrderDetail od
+Left Join Customer c On od.CompanyID=c.CompanyID And od.CustomerID=c.CustomerID
+Left Join Product p On od.CompanyID=p.CompanyID And od.ProductID=p.ProductID
+Left Join BrochureDetail bd On od.CompanyID=bd.CompanyID And od.ProductID=bd.ProductID
+Left Join BrochureByCustomer bc On od.CompanyID=bc.CompanyID And od.CustomerID=bc.CustomerID  And bd.BrochureID=bc.BrochureID
+Left Join Tax_By_State ts On od.CompanyID=ts.CompanyID And od.ProductID=ts.ProductID And c.State=ts.StateID
+Where od.CustomerID="1892" And od.CompanyID="F07" And bc.ProfitPercent is not null
+Group By od.ID
+Order By od.ProductID

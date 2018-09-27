@@ -1,0 +1,22 @@
+D:\Signature.com\SigData\Signature.Vista.dll
+D:\Signature.com\SigData\Signature.Vista.pdb
+D:\WAP - Copy\Vista\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Vista\obj\Debug\Signature.Vista.Properties.Resources.resources
+D:\WAP - Copy\Vista\obj\Debug\Signature.Vista.TransparentForm.resources
+D:\WAP - Copy\Vista\obj\Debug\Signature.Vista.csproj.GenerateResource.Cache
+D:\WAP - Copy\Vista\obj\Debug\Signature.Vista.dll
+D:\WAP - Copy\Vista\obj\Debug\Signature.Vista.pdb
+D:\Adobe 2008\Vista\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\Vista\obj\Debug\Signature.Vista.Properties.Resources.resources
+D:\Adobe 2008\Vista\obj\Debug\Signature.Vista.TransparentForm.resources
+D:\Adobe 2008\Vista\obj\Debug\Signature.Vista.csproj.GenerateResource.Cache
+D:\Adobe 2008\Vista\obj\Debug\Signature.Vista.dll
+D:\Adobe 2008\Vista\obj\Debug\Signature.Vista.pdb
+D:\SigData\bin\Signature.Vista.dll
+D:\SigData\bin\Signature.Vista.pdb
+D:\SigData\Vista\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Vista\obj\Debug\Signature.Vista.Properties.Resources.resources
+D:\SigData\Vista\obj\Debug\Signature.Vista.TransparentForm.resources
+D:\SigData\Vista\obj\Debug\Signature.Vista.csproj.GenerateResource.Cache
+D:\SigData\Vista\obj\Debug\Signature.Vista.dll
+D:\SigData\Vista\obj\Debug\Signature.Vista.pdb

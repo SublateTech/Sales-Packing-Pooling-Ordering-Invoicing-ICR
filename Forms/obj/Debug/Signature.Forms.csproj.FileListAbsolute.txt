@@ -1,0 +1,465 @@
+D:\WAP - Copy\Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.csproj.ResolveComReference.cache
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmBase.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerUPSLabels.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerStatement.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCommissionSalesReport.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerBalanceDue.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerTax.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerPineValley.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerBillOfLading.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerInvoice.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerClassSummary.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerPickSheet.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmBrochureProjected.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCoverSheet.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmLogin.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmMain.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmPacking.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmPrize.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmProduct.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmProductListing.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmPurchase.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmReceive.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmRep.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmShortage.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmBox.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmBrochure.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCharges.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomer.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerDate.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerDrawingTickets.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerListing.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmDiscrepancy.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmGAOrder.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmKitSetup.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmOrder.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmStateTax.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmTest.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmTimerMessage.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmTracking.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmUPCA.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmVendor.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.Properties.Resources.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmDiscrepancyOptions.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmBoxsView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmBrochureView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmChargesView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmViewCompanies.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmCustomerView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmViewNoScanned.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmPOrdersView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmPrizesView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmReceivesView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmViewReps.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmViewScannedImages.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmShortagesView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmViewStudent.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmViewTeacher.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmViewVendors.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmGAReports.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmDevice.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmLine.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCustomerInventory.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmScanning.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCashRegister.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmInventoryRealTime.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmProductCompound.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmRankingByUser.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmOrderZonal.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmOrderICRFix.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmOrderICRAdquire.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmOrderICRTeacher.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmBrochureType.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCallsAssignment.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.CallList.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCalls.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCallsAssignUser.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmCallsManager.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmEditRepCharges.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmItemAdjustment.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmLetterApprovalCoverPage.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmRepCharges.resources
+D:\WAP - Copy\Forms\obj\Debug\WEBGateWay.frmOrderStatus.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmViewOrderByStudent.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmProductView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmViewScannedCustomers.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.frmViewScannedTeachers.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmViewRepsByID.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmBrochureTypesView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.frmRepView.resources
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.csproj.GenerateResource.Cache
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.dll.licenses
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.dll
+D:\WAP - Copy\Forms\obj\Debug\Signature.Forms.pdb
+C:\Adobe 2008\Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.csproj.ResolveComReference.cache
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBase.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerUPSLabels.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerStatement.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCommissionSalesReport.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerBalanceDue.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerTax.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerPineValley.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerBillOfLading.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerInvoice.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerClassSummary.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerPickSheet.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBrochureProjected.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCoverSheet.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmLogin.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmMain.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmPacking.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmPrize.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProduct.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProductListing.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmPurchase.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmReceive.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmRep.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmShortage.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBox.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBrochure.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCharges.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomer.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerDate.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerDrawingTickets.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerListing.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmDiscrepancy.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmGAOrder.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmKitSetup.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmOrder.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmStateTax.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmTest.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmTimerMessage.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmTracking.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmUPCA.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmVendor.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.Properties.Resources.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmDiscrepancyOptions.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBoxsView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmBrochureView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmChargesView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewCompanies_1.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmCustomerView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewNoScanned.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmPOrdersView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmPrizesView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmReceivesView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewReps.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewScannedImages.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmShortagesView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmViewStudent.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewTeacher.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewVendors.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCardSet.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBrochureListing.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerSignedDate.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmeMail.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCardTemplate.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmImprinting.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmUser.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCompany.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmVoicemail.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmTicket.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCardByProduct.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProductExtra.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmGAReports.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmDevice.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmNGL.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmPackOrder.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerInventory.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCashRegister.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmInventoryRealTime.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProductCompound.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmRankingByUser.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmOrderZonal.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmOrderICRFix.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmOrderICRAdquire.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmOrderICRTeacher.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProductType.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCallsAssignment.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.CallList.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCalls.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCallsAssignUser.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCallsManager.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmEditRepCharges.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmItemAdjustment.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmLetterApprovalCoverPage.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmRepCharges.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmScanning.resources
+C:\Adobe 2008\Forms\obj\Debug\WEBGateWay.frmOrderStatus.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewCardSets.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewTicketsByOrder.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewCompanies.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmVieweMails.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmVoicemailsView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewUsers.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewTickets.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewTemplates.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmViewOrderByStudent.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmProductView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmViewScannedCustomers.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmViewScannedTeachers.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmViewRepsByID.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmProductTypesView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.frmRepView.resources
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.csproj.GenerateResource.Cache
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.dll.licenses
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.dll
+C:\Signature.com\SigData\Signature.Forms.dll
+C:\Signature.com\SigData\Signature.Forms.pdb
+C:\Adobe 2008\Forms\obj\Debug\Signature.Forms.pdb
+D:\Adobe 2008\Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.csproj.ResolveComReference.cache
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBase.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerUPSLabels.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerStatement.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCommissionSalesReport.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerBalanceDue.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerTax.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerPineValley.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerBillOfLading.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerInvoice.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerClassSummary.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerPickSheet.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBrochureProjected.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCoverSheet.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmLogin.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmMain.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmPacking.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmPrize.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProduct.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProductListing.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmPurchase.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmReceive.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmRep.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmShortage.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBox.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBrochure.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCharges.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomer.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerDate.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerDrawingTickets.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerListing.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmDiscrepancy.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmGAOrder.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmKitSetup.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmOrder.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmStateTax.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmTest.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmTimerMessage.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmTracking.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmUPCA.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmVendor.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.Properties.Resources.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmDiscrepancyOptions.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBoxsView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmBrochureView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmChargesView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewCompanies_1.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmCustomerView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewNoScanned.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmPOrdersView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmPrizesView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmReceivesView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewReps.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewScannedImages.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmShortagesView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmViewStudent.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewTeacher.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewVendors.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProductByRep.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCheckIn.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmPurchasePrint.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCardSet.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmBrochureListing.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerSignedDate.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmeMail.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCardTemplate.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmImprinting.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmUser.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCompany.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmVoicemail.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmTicket.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCardByProduct.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProductExtra.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmGAReports.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmDevice.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmNGL.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmPackOrder.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCustomerInventory.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCashRegister.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmInventoryRealTime.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProductCompound.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmRankingByUser.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmOrderZonal.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmOrderICRFix.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmOrderICRAdquire.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmOrderICRTeacher.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmProductType.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCallsAssignment.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.CallList.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCalls.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCallsAssignUser.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmCallsManager.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmEditRepCharges.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmItemAdjustment.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmLetterApprovalCoverPage.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmRepCharges.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmScanning.resources
+D:\Adobe 2008\Forms\obj\Debug\WEBGateWay.frmOrderStatus.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewCardSets.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewTicketsByOrder.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewCompanies.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmVieweMails.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmVoicemailsView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewUsers.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewTickets.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewTemplates.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmViewOrderByStudent.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmProductView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmViewScannedCustomers.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.frmViewScannedTeachers.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmViewRepsByID.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmProductTypesView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmRepView.resources
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.csproj.GenerateResource.Cache
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.dll.licenses
+D:\Signature.com\SigData\Signature.Forms.dll
+D:\Signature.com\SigData\Signature.Forms.pdb
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.dll
+D:\Adobe 2008\Forms\obj\Debug\Signature.Forms.pdb
+D:\Adobe 2008\Forms\obj\Debug\Signature.frmINotesView.resources
+D:\SigData\Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Forms\obj\Debug\Signature.Forms.csproj.ResolveComReference.cache
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmBase.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerUPSLabels.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerStatement.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCommissionSalesReport.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerBalanceDue.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerTax.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerPineValley.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerBillOfLading.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerInvoice.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerClassSummary.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerPickSheet.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmBrochureProjected.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCoverSheet.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmLogin.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmMain.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPacking.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPrize.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmProduct.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmProductListing.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPurchase.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmReceive.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmRep.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmShortage.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmBox.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmBrochure.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCharges.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomer.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerDate.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerDrawingTickets.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerListing.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmDiscrepancy.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmGAOrder.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmKitSetup.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmOrder.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmStateTax.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmTest.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmTimerMessage.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmTracking.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmUPCA.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmVendor.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.Properties.Resources.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmDiscrepancyOptions.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmBoxsView.resources
+D:\SigData\Forms\obj\Debug\Signature.frmBrochureView.resources
+D:\SigData\Forms\obj\Debug\Signature.frmChargesView.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewCompanies_1.resources
+D:\SigData\Forms\obj\Debug\Signature.frmCustomerView.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewNoScanned.resources
+D:\SigData\Forms\obj\Debug\Signature.frmPOrdersView.resources
+D:\SigData\Forms\obj\Debug\Signature.frmPrizesView.resources
+D:\SigData\Forms\obj\Debug\Signature.frmReceivesView.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewReps.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewScannedImages.resources
+D:\SigData\Forms\obj\Debug\Signature.frmShortagesView.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmViewStudent.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewTeacher.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewVendors.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmOrderGPI.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPurchaseReceivePrint.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerInvoiceConvert.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPackingSections_Old.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmBrochure_old.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPackingSections.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPackingSlipByItemPrint.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerBlueRibbon.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPurchaseStatement.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPaymentProvider.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmProductByRep.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCookieDoughLabels.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPurchasePrint.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCardSet.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmBrochureListing.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerSignedDate.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmeMail.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCardTemplate.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmImprinting.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmUser.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCompany.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmVoicemail.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmTicket.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCardByProduct.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmProductExtra.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmGAReports.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmDevice.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmNGL.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmPackOrder.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCustomerInventory.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCashRegister.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmInventoryRealTime.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmProductCompound.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmRankingByUser.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmOrderZonal.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmOrderICRFix.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmOrderICRAdquire.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmOrderICRTeacher.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmProductType.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCallsAssignment.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.CallList.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCalls.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCallsAssignUser.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmCallsManager.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmEditRepCharges.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmItemAdjustment.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmLetterApprovalCoverPage.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmRepCharges.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmScanning.resources
+D:\SigData\Forms\obj\Debug\WEBGateWay.frmOrderStatus.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewPaymentProvider.resources
+D:\SigData\Forms\obj\Debug\Signature.ViewChargesPayments.resources
+D:\SigData\Forms\obj\Debug\Signature.frmINotesView.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewCardSets.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewTicketsByOrder.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewCompanies.resources
+D:\SigData\Forms\obj\Debug\Signature.frmVieweMails.resources
+D:\SigData\Forms\obj\Debug\Signature.frmVoicemailsView.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewUsers.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewTickets.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewTemplates.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmViewOrderByStudent.resources
+D:\SigData\Forms\obj\Debug\Signature.frmProductView.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmViewScannedCustomers.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.frmViewScannedTeachers.resources
+D:\SigData\Forms\obj\Debug\Signature.frmViewRepsByID.resources
+D:\SigData\Forms\obj\Debug\Signature.frmProductTypesView.resources
+D:\SigData\Forms\obj\Debug\Signature.frmRepView.resources
+D:\SigData\Forms\obj\Debug\Signature.Forms.csproj.GenerateResource.Cache
+D:\SigData\Forms\obj\Debug\Signature.Forms.dll.licenses
+D:\SigData\bin\Signature.Forms.dll
+D:\SigData\bin\Signature.Forms.pdb
+D:\SigData\Forms\obj\Debug\Signature.Forms.dll
+D:\SigData\Forms\obj\Debug\Signature.Forms.pdb

@@ -1,0 +1,20 @@
+D:\Signature.com.asp\TopMenuControl\bin\Debug\Signature.Web.Controls.dll
+D:\Signature.com.asp\TopMenuControl\bin\Debug\Signature.Web.Controls.pdb
+D:\Signature.com.asp\TopMenuControl\obj\Debug\ResolveAssemblyReference.cache
+D:\Signature.com.asp\TopMenuControl\obj\Debug\Signature.Web.Controls.dll
+D:\Signature.com.asp\TopMenuControl\obj\Debug\Signature.Web.Controls.pdb
+D:\Signature.com.asp\bin\Signature.Web.Controls.dll
+D:\Signature.com.asp\bin\Signature.Web.Controls.pdb
+D:\Signature.com.asp\TopMenuControl\obj\Debug\Signature.Web.Controls.csproj.GenerateResource.Cache
+D:\SigFund.com\bin\Signature.Web.Controls.dll
+D:\SigFund.com\bin\Signature.Web.Controls.pdb
+D:\Signature.com\SigData\Signature.Web.Controls.dll
+D:\Signature.com\SigData\Signature.Web.Controls.pdb
+D:\Signature.com.asp\TopMenuControl\obj\Debug\Signature.Web.Controls.PatternLeftMenu.resources
+D:\Adobe 2008\bin\Signature.Web.Controls.dll
+D:\Adobe 2008\bin\Signature.Web.Controls.pdb
+D:\Adobe 2008\Web.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\Web.Controls\obj\Debug\Signature.Web.Controls.PatternLeftMenu.resources
+D:\Adobe 2008\Web.Controls\obj\Debug\Signature.Web.Controls.csproj.GenerateResource.Cache
+D:\Adobe 2008\Web.Controls\obj\Debug\Signature.Web.Controls.dll
+D:\Adobe 2008\Web.Controls\obj\Debug\Signature.Web.Controls.pdb

@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Signature.Starter.csproj.GenerateResource.Cache
+..\..\..\Signature.com\SigData\Starter.exe
+..\..\..\Signature.com\SigData\Starter.pdb
+obj\Debug\Starter.exe.licenses
+obj\Debug\Starter.exe
+obj\Debug\Starter.pdb
+obj\Debug\Starter.frmPresentation.resources
+obj\Debug\Starter.Properties.Resources.resources

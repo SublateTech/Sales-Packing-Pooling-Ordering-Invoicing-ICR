@@ -1,0 +1,10 @@
+bin\Release1\OSAS.dll
+bin\Release1\Interop.dSERVE2.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.dSERVE2.dll
+obj\Release\Signature.OSAS.csproj.ResolveComReference.cache
+obj\Release\Signature.OSAS.csproj.GenerateResource.Cache
+bin\Release\Signature.OSAS.dll
+bin\Release\Interop.dSERVE2.dll
+obj\Release\Signature.OSAS.dll
+obj\Release\Signature.OSAS.frmOrderStatus.resources

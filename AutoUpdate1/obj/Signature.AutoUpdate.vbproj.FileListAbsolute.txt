@@ -1,0 +1,10 @@
+D:\Adobe\AutoUpdate\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe\AutoUpdate\obj\Debug\Signature.frmStatus.resources
+D:\Adobe\AutoUpdate\obj\Debug\Signature.AutoUpdate.vbproj.GenerateResource.Cache
+D:\Adobe\AutoUpdate\obj\Debug\Signature.AutoUpdate.dll.licenses
+D:\Adobe\AutoUpdate\bin\Debug\Signature.AutoUpdate.dll
+D:\Adobe\AutoUpdate\bin\Debug\Signature.AutoUpdate.pdb
+D:\Adobe\AutoUpdate\bin\Debug\Signature.xml
+D:\Adobe\AutoUpdate\obj\Debug\Signature.AutoUpdate.dll
+D:\Adobe\AutoUpdate\obj\Debug\Signature.xml
+D:\Adobe\AutoUpdate\obj\Debug\Signature.AutoUpdate.pdb

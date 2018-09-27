@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Signature.Vista.csproj.GenerateResource.Cache
+bin\Debug\Vista.dll
+bin\Debug\Vista.pdb
+obj\Debug\Signature.Vista.TransparentForm.resources
+..\..\..\Signature.com\SigData\Signature.Vista.dll
+..\..\..\Signature.com\SigData\Signature.Vista.pdb
+obj\Debug\Signature.Vista.Properties.Resources.resources
+obj\Debug\Signature.Vista.dll
+obj\Debug\Signature.Vista.pdb

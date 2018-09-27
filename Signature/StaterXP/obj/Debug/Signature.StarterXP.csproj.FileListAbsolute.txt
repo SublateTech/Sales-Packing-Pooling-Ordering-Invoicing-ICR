@@ -1,0 +1,16 @@
+D:\Signature.com\SigData\Starter.exe
+D:\Signature.com\SigData\Starter.pdb
+D:\WAP - Copy\Signature\StaterXP\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Signature\StaterXP\obj\Debug\Starter.frmPresentation.resources
+D:\WAP - Copy\Signature\StaterXP\obj\Debug\Starter.Properties.Resources.resources
+D:\WAP - Copy\Signature\StaterXP\obj\Debug\Signature.StarterXP.csproj.GenerateResource.Cache
+D:\WAP - Copy\Signature\StaterXP\obj\Debug\Starter.exe.licenses
+D:\WAP - Copy\Signature\StaterXP\obj\Debug\Starter.exe
+D:\WAP - Copy\Signature\StaterXP\obj\Debug\Starter.pdb
+D:\Adobe 2008\Signature\StaterXP\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\Signature\StaterXP\obj\Debug\Starter.frmPresentation.resources
+D:\Adobe 2008\Signature\StaterXP\obj\Debug\Starter.Properties.Resources.resources
+D:\Adobe 2008\Signature\StaterXP\obj\Debug\Signature.StarterXP.csproj.GenerateResource.Cache
+D:\Adobe 2008\Signature\StaterXP\obj\Debug\Starter.exe.licenses
+D:\Adobe 2008\Signature\StaterXP\obj\Debug\Starter.exe
+D:\Adobe 2008\Signature\StaterXP\obj\Debug\Starter.pdb

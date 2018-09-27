@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9E057E98-7E96-45B5-AB2B-ACDCFCB6A4B4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Signature.Forms</RootNamespace>
+    <AssemblyName>Signature.Forms</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Signature.com\SigData\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="frmOrder1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerInvoice.designer.cs">
+      <DependentUpon>frmCustomerInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerClassSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerClassSummary.designer.cs">
+      <DependentUpon>frmCustomerClassSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerPickSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerPickSheet.designer.cs">
+      <DependentUpon>frmCustomerPickSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrochureProjected.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrochureProjected.Designer.cs">
+      <DependentUpon>frmBrochureProjected.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCoverSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCoverSheet.Designer.cs">
+      <DependentUpon>frmCoverSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShortage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrochure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCharges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerDate.designer.cs">
+      <DependentUpon>frmCustomerDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerDrawingTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerDrawingTickets.designer.cs">
+      <DependentUpon>frmCustomerDrawingTickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerListing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerListing.designer.cs">
+      <DependentUpon>frmCustomerListing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiscrepancy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGAOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKitSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPacking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductListing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductListing.Designer.cs">
+      <DependentUpon>frmProductListing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmScanning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStateTax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimerMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTracking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUPCA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiscrepancyOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmOrder1.resx">
+      <DependentUpon>frmOrder1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerInvoice.resx">
+      <DependentUpon>frmCustomerInvoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerClassSummary.resx">
+      <DependentUpon>frmCustomerClassSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerPickSheet.resx">
+      <DependentUpon>frmCustomerPickSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrochureProjected.resx">
+      <DependentUpon>frmBrochureProjected.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCoverSheet.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCoverSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPacking.resx">
+      <DependentUpon>frmPacking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrize.resx">
+      <DependentUpon>frmPrize.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProduct.resx">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductListing.resx">
+      <DependentUpon>frmProductListing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPurchase.resx">
+      <DependentUpon>frmPurchase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceive.resx">
+      <DependentUpon>frmReceive.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRep.resx">
+      <DependentUpon>frmRep.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScanning.resx">
+      <DependentUpon>frmScanning.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShortage.resx">
+      <DependentUpon>frmShortage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBox.resx">
+      <DependentUpon>frmBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrochure.resx">
+      <DependentUpon>frmBrochure.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCharges.resx">
+      <DependentUpon>frmCharges.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerDate.resx">
+      <DependentUpon>frmCustomerDate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerDrawingTickets.resx">
+      <DependentUpon>frmCustomerDrawingTickets.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerListing.resx">
+      <DependentUpon>frmCustomerListing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiscrepancy.resx">
+      <DependentUpon>frmDiscrepancy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGAOrder.resx">
+      <DependentUpon>frmGAOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKitSetup.resx">
+      <DependentUpon>frmKitSetup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrder.resx">
+      <DependentUpon>frmOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStateTax.resx">
+      <DependentUpon>frmStateTax.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimerMessage.resx">
+      <DependentUpon>frmTimerMessage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTracking.resx">
+      <DependentUpon>frmTracking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUPCA.resx">
+      <DependentUpon>frmUPCA.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVendor.resx">
+      <DependentUpon>frmVendor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiscrepancyOptions.resx">
+      <DependentUpon>frmDiscrepancyOptions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Shared.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.Misc.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinDock.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinExplorerBar.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinGrid.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinInkProvider.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics2.Win.UltraWinMaskedEdit.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinStatusBar.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinToolbars.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.v7.2, Version=7.2.20072.61, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="PegasusImaging.WinForms.ImagXpress7, Version=7.0.74.3, Culture=neutral, PublicKeyToken=80d669b8b606a2da" />
+    <Reference Include="PegasusImaging.WinForms.SSXICR4, Version=4.0.88.0, Culture=neutral, PublicKeyToken=80d669b8b606a2da" />
+    <Reference Include="Signature.Classes, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\Signature.com\SigData\Signature.Classes.dll</HintPath>
+    </Reference>
+    <Reference Include="Signature.Data, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\Signature.com\SigData\Signature.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Signature.Reports, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\Signature.com\SigData\Signature.Reports.dll</HintPath>
+    </Reference>
+    <Reference Include="Signature.UPS, Version=1.0.2934.40378, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Signature\Signature.UPS\bin\Debug\Signature.UPS.dll</HintPath>
+    </Reference>
+    <Reference Include="Signature.Windows.Forms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=472f3da159dc640c, processorArchitecture=MSIL">
+      <HintPath>..\..\Signature.com\SigData\Signature.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+</Project>

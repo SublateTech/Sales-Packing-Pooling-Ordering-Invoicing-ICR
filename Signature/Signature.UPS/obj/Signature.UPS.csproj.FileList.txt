@@ -1,0 +1,7 @@
+bin\Debug\Signature.UPS.dll
+bin\Debug\Signature.UPS.pdb
+..\..\..\Signature.com\SigData\Signature.UPS.dll
+..\..\..\Signature.com\SigData\Signature.UPS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Signature.UPS.dll
+obj\Debug\Signature.UPS.pdb

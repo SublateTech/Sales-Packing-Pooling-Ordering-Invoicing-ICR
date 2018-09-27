@@ -1,0 +1,7 @@
+D:\Adobe\Signature\AutoUpdate\bin\Debug\AutoUpdate.dll
+D:\Adobe\Signature\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\Adobe\Signature\AutoUpdate\obj\Debug\ResolveAssemblyReference.cache
+D:\Signature.com\SigData\Signature.AutoUpdate.dll
+D:\Signature.com\SigData\Signature.AutoUpdate.pdb
+D:\Adobe\Signature\AutoUpdate\obj\Debug\Signature.AutoUpdate.dll
+D:\Adobe\Signature\AutoUpdate\obj\Debug\Signature.AutoUpdate.pdb

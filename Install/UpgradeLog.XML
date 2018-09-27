@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Install">
+</Property><Property Name="Solution File" Value="C:\Test\Install\Install.sln">
+</Property><Property Name="User Options File" Value="C:\Test\Install\Install.suo">
+</Property><Property Name="Date" Value="Tuesday, May 22, 2007">
+</Property><Property Name="Time" Value="10:32 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Install.sln" Description="File successfully backed up as C:\Test\Install\Backup\Install.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Install.suo" Description="File successfully backed up as C:\Test\Install\Backup\Install.suo">
+</Event><Event ErrorLevel="0" Project="Install.vdproj" Source="Install.vdproj" Description="Project file successfully backed up as C:\Test\Install\Backup\Install.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="Install.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Install.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Install.vdproj" Source="Install.vdproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Install.vdproj" Source="Install.vdproj" Description="Converted">
+</Event></UpgradeLog>

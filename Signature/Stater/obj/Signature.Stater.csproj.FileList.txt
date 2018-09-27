@@ -1,0 +1,9 @@
+..\..\..\Signature.com\SigData\Stater.exe
+..\..\..\Signature.com\SigData\Stater.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Signature.frmPresentation.resources
+obj\Debug\Signature.Properties.Resources.resources
+obj\Debug\Signature.Stater.csproj.GenerateResource.Cache
+obj\Debug\Stater.exe.licenses
+obj\Debug\Stater.exe
+obj\Debug\Stater.pdb

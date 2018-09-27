@@ -1,0 +1,7 @@
+D:\Asp.net\PaperSize\obj\Debug\ResolveAssemblyReference.cache
+D:\Asp.net\PaperSize\obj\Debug\TestCustomForm.Form1.resources
+D:\Asp.net\PaperSize\obj\Debug\MJMCustomPrintForm.csproj.GenerateResource.Cache
+D:\Asp.net\PaperSize\bin\Debug\MJMCustomPrintForm.exe
+D:\Asp.net\PaperSize\bin\Debug\MJMCustomPrintForm.pdb
+D:\Asp.net\PaperSize\obj\Debug\MJMCustomPrintForm.exe
+D:\Asp.net\PaperSize\obj\Debug\MJMCustomPrintForm.pdb

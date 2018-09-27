@@ -1,0 +1,10 @@
+D:\Signature.com\SigData\Signature.SpellChecker.dll
+D:\Signature.com\SigData\Signature.SpellChecker.pdb
+D:\WAP - Copy\NetSpell.SpellChecker\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\NetSpell.SpellChecker\obj\Debug\Signature.SpellChecker.Dictionary.WordDictionary.resources
+D:\WAP - Copy\NetSpell.SpellChecker\obj\Debug\Signature.SpellChecker.Forms.OptionForm.resources
+D:\WAP - Copy\NetSpell.SpellChecker\obj\Debug\Signature.SpellChecker.Forms.SuggestionForm.resources
+D:\WAP - Copy\NetSpell.SpellChecker\obj\Debug\Signature.SpellChecker.Spelling.resources
+D:\WAP - Copy\NetSpell.SpellChecker\obj\Debug\Signature.SpellChecker.csproj.GenerateResource.Cache
+D:\WAP - Copy\NetSpell.SpellChecker\obj\Debug\Signature.SpellChecker.dll
+D:\WAP - Copy\NetSpell.SpellChecker\obj\Debug\Signature.SpellChecker.pdb

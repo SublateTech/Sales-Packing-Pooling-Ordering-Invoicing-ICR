@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styleLibrary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" schemaVersion="1.0" defaultStyleName="Default">
+  <styles>
+    <formStyle name="FormStyle" clientAreaPadding="7, 0, 7, 0" titleFont="Microsoft YaHei, 8.25pt" titleColor="Red" sizingBorderWidth="7" sizingBorderOffset="16">
+      <normalState sizeMode="Centered" />
+      <minimizeButton>
+        <normalState sizeMode="Centered" />
+        <activeState sizeMode="Centered" />
+        <hoverState sizeMode="Centered" />
+        <disabledState sizeMode="Centered" />
+      </minimizeButton>
+      <maximizeButton>
+        <normalState sizeMode="Centered" />
+        <activeState sizeMode="Centered" />
+        <hoverState sizeMode="Centered" />
+        <disabledState sizeMode="Centered" />
+      </maximizeButton>
+      <closeButton>
+        <normalState sizeMode="Centered" />
+        <activeState sizeMode="Centered" />
+        <hoverState sizeMode="Centered" />
+        <disabledState sizeMode="Centered" />
+      </closeButton>
+      <restoreButton>
+        <normalState sizeMode="Centered" />
+        <activeState sizeMode="Centered" />
+        <hoverState sizeMode="Centered" />
+        <disabledState sizeMode="Centered" />
+      </restoreButton>
+      <helpButton>
+        <normalState sizeMode="Centered" />
+        <activeState sizeMode="Centered" />
+        <hoverState sizeMode="Centered" />
+        <disabledState sizeMode="Centered" />
+      </helpButton>
+    </formStyle>
+  </styles>
+</styleLibrary>

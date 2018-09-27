@@ -1,0 +1,21 @@
+D:\Signature.com\SigData\Signature.Server.exe.config
+D:\Signature.com\SigData\Signature.Server.exe
+D:\Signature.com\SigData\Signature.Server.pdb
+D:\WAP - Copy\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Server\obj\Debug\Signature.Server.exe
+D:\WAP - Copy\Server\obj\Debug\Signature.Server.pdb
+D:\Adobe 2008\Server\obj\Debug\Signature.Server.exe
+D:\Adobe 2008\Server\obj\Debug\Signature.Server.pdb
+D:\Adobe 2008\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Signature.com\SigData\Signature.Server.exe.config
+C:\Signature.com\SigData\Signature.Server.exe
+C:\Signature.com\SigData\Signature.Server.pdb
+C:\Adobe 2008\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Adobe 2008\Server\obj\Debug\Signature.Server.exe
+C:\Adobe 2008\Server\obj\Debug\Signature.Server.pdb
+D:\SigData\bin\Signature.Server.exe.config
+D:\SigData\bin\Signature.Server.exe
+D:\SigData\bin\Signature.Server.pdb
+D:\SigData\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Server\obj\Debug\Signature.Server.exe
+D:\SigData\Server\obj\Debug\Signature.Server.pdb

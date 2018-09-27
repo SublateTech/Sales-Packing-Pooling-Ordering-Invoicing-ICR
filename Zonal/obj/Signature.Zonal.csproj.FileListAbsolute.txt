@@ -1,0 +1,7 @@
+D:\Adobe\Zonal\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe\Zonal\obj\Debug\Signature.Zonal.Properties.Resources.resources
+D:\Adobe\Zonal\obj\Debug\Signature.Zonal.csproj.GenerateResource.Cache
+D:\Signature.com\SigData\Signature.Zonal.dll
+D:\Signature.com\SigData\Signature.Zonal.pdb
+D:\Adobe\Zonal\obj\Debug\Signature.Zonal.dll
+D:\Adobe\Zonal\obj\Debug\Signature.Zonal.pdb

@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WebControlLibrary1.AutoComplete.js
+bin\Debug\WebControlLibrary1.dll
+bin\Debug\WebControlLibrary1.pdb
+obj\Debug\WebControlLibrary1.dll
+obj\Debug\WebControlLibrary1.pdb

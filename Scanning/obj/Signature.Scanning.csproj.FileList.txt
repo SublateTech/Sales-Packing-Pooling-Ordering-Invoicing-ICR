@@ -1,0 +1,17 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Signature.frmBase.resources
+obj\Debug\Signature.frmScanning.resources
+obj\Debug\Signature.frmTimerMessage.resources
+obj\Debug\Signature.Properties.Resources.resources
+obj\Debug\Signature.Scanning.csproj.GenerateResource.Cache
+obj\Debug\Scanning.exe.licenses
+obj\Debug\Scanning.exe
+obj\Debug\Scanning.pdb
+..\..\Signature.com\SigData\Scanning.exe.config
+..\..\Signature.com\SigData\Scanning.exe.manifest
+..\..\Signature.com\SigData\Scanning.application
+..\..\Signature.com\SigData\Scanning.exe
+..\..\Signature.com\SigData\Scanning.pdb
+obj\Debug\Scanning.TrustInfo.xml
+obj\Debug\Scanning.exe.manifest
+obj\Debug\Scanning.application

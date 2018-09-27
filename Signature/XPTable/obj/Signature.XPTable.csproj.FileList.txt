@@ -1,0 +1,13 @@
+bin\Debug\XPTable.dll
+bin\Debug\XPTable.pdb
+bin\Debug\XPTable.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\XPTable.Models.ColumnModel.bmp
+obj\Debug\XPTable.Models.Table.bmp
+obj\Debug\XPTable.Models.TableModel.bmp
+obj\Debug\XPTable.Editors.DropDownContainer.resources
+obj\Debug\XPTable.Models.Table.resources
+obj\Debug\XPTable.Models.TableModel.resources
+obj\Debug\Signature.XPTable.csproj.GenerateResource.Cache
+obj\Debug\XPTable.dll
+obj\Debug\XPTable.pdb

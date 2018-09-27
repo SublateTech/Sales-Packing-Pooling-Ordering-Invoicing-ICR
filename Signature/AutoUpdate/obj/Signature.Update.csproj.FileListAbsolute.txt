@@ -1,0 +1,7 @@
+D:\Signature.com\SigData\Signature.Update.dll
+D:\Signature.com\SigData\Signature.Update.pdb
+D:\Adobe\Signature\AutoUpdate\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe\Signature\AutoUpdate\obj\Debug\Signature.AutoUpdate.frmProgress.resources
+D:\Adobe\Signature\AutoUpdate\obj\Debug\Signature.Update.csproj.GenerateResource.Cache
+D:\Adobe\Signature\AutoUpdate\obj\Debug\Signature.Update.dll
+D:\Adobe\Signature\AutoUpdate\obj\Debug\Signature.Update.pdb

@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Signature.frmBase.resources
+obj\Debug\Signature.frmPacking.resources
+obj\Debug\Signature.Properties.Resources.resources
+obj\Debug\Signature.Packing.csproj.GenerateResource.Cache
+obj\Debug\Packing.exe.licenses
+obj\Debug\Packing.exe
+obj\Debug\Packing.pdb
+..\..\Signature.com\SigData\Packing.exe.config
+..\..\Signature.com\SigData\Packing.exe.manifest
+..\..\Signature.com\SigData\Packing.application
+..\..\Signature.com\SigData\Packing.exe
+..\..\Signature.com\SigData\Packing.pdb
+obj\Debug\Packing.TrustInfo.xml
+obj\Debug\Packing.exe.manifest
+obj\Debug\Packing.application

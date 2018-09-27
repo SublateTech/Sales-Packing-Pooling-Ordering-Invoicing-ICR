@@ -1,0 +1,941 @@
+# chardim.txt
+
+[us_mach]
+character	142	-0.1	1	SCHARTYPE_UCVOCAL	0xc4
+character	132	 0.1	1	SCHARTYPE_LCVOCAL	0xe4
+character	153	-0.1	1	SCHARTYPE_UCVOCAL	0x00D6 
+character	154	-0.1	1	SCHARTYPE_UCVOCAL	0x00DC 
+character	148	 0.1	1	SCHARTYPE_LCVOCAL	0x00F6 
+character	129	 0.1	1	SCHARTYPE_LCVOCAL	0x00FC 
+character	225	 0	1.1	SCHARTYPE_LCCONSONANT	0x00DF 
+
+;character	237	 0	1	SCHARTYPE_NUMERIC	48 
+character	179	0.4	1	SCHARTYPE_LCVOCAL	0x0131
+;character	237	 0	1	SCHARTYPE_UCVOCAL	0x00D8 
+character	237	 0	1	SCHARTYPE_SPECIAL	0x00D8 
+character	'('	-0.1	1.1	SCHARTYPE_SPECIAL
+character	')'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'/'	0	1	SCHARTYPE_SPECIAL
+character	'$'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'0'	0	1	SCHARTYPE_NUMERIC
+character	'1'	0	1	SCHARTYPE_NUMERIC
+character	'2'	0	1	SCHARTYPE_NUMERIC
+character	'3'	0	1	SCHARTYPE_NUMERIC
+character	'4'	0	1	SCHARTYPE_NUMERIC
+character	'5'	0	1	SCHARTYPE_NUMERIC
+character	'6'	0	1	SCHARTYPE_NUMERIC
+character	'7'	0	1	SCHARTYPE_NUMERIC
+character	'8'	0	1	SCHARTYPE_NUMERIC
+character	'9'	0	1	SCHARTYPE_NUMERIC
+character	'A'	0	1	SCHARTYPE_UCVOCAL
+character	'B'	0	1	SCHARTYPE_UCCONSONANT
+character	'C'	0	1	SCHARTYPE_UCCONSONANT
+character	'D'	0	1	SCHARTYPE_UCCONSONANT
+character	'E'	0	1	SCHARTYPE_UCVOCAL
+character	'F'	0	1	SCHARTYPE_UCCONSONANT
+character	'G'	0	1	SCHARTYPE_UCCONSONANT
+character	'H'	0	1	SCHARTYPE_UCCONSONANT
+character	'I'	0	1	SCHARTYPE_UCVOCAL
+character	'J'	0	1	SCHARTYPE_UCCONSONANT
+character	'K'	0	1	SCHARTYPE_UCCONSONANT
+character	'L'	0	1	SCHARTYPE_UCCONSONANT
+character	'M'	0	1	SCHARTYPE_UCCONSONANT
+character	'N'	0	1	SCHARTYPE_UCCONSONANT
+character	'O'	0	1	SCHARTYPE_UCVOCAL
+character	'P'	0	1	SCHARTYPE_UCCONSONANT
+character	'R'	0	1	SCHARTYPE_UCCONSONANT
+character	'S'	0	1	SCHARTYPE_UCCONSONANT
+character	'T'	0	1	SCHARTYPE_UCCONSONANT
+character	'U'	0	1	SCHARTYPE_UCVOCAL
+character	'V'	0	1	SCHARTYPE_UCCONSONANT
+character	'W'	0	1	SCHARTYPE_UCCONSONANT
+character	'X'	0	1	SCHARTYPE_UCCONSONANT
+character	'Y'	0	1	SCHARTYPE_UCCONSONANT
+character	'Z'	0	1	SCHARTYPE_UCCONSONANT
+character	'b'	0	1	SCHARTYPE_LCCONSONANT
+character	'd'	0	1	SCHARTYPE_LCCONSONANT
+character	'f'	0	1	SCHARTYPE_LCCONSONANT
+character	'h'	0	1	SCHARTYPE_LCCONSONANT
+character	'k'	0	1	SCHARTYPE_LCCONSONANT
+character	'l'	0	1	SCHARTYPE_LCCONSONANT
+character	't'	0	1	SCHARTYPE_LCCONSONANT
+character	'@'	0	1	SCHARTYPE_SPECIAL
+character	'&'	0	1	SCHARTYPE_SPECIAL
+character	'?'	0	1	SCHARTYPE_SPECIAL
+character	'#'	0	1	SCHARTYPE_SPECIAL
+character	'%'	0	1	SCHARTYPE_SPECIAL
+character	'Q'	0	1.1	SCHARTYPE_UCCONSONANT
+;character	'á'	0	1.1	SCHARTYPE_UCCONSONANT
+character	'i'	0	1	SCHARTYPE_LCVOCAL
+character	'j'	0	1.3	SCHARTYPE_LCCONSONANT
+character	'*'	0.3	0.7	SCHARTYPE_SPECIAL
+character	'a'	0.4	1	SCHARTYPE_LCVOCAL
+character	'c'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'e'	0.4	1	SCHARTYPE_LCVOCAL
+character	'm'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'n'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'o'	0.4	1	SCHARTYPE_LCVOCAL
+character	'r'	0.4	1	SCHARTYPE_LCCONSONANT
+character	's'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'u'	0.4	1	SCHARTYPE_LCVOCAL
+character	'v'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'w'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'x'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'z'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'g'	0.4	1.3	SCHARTYPE_LCCONSONANT
+character	'p'	0.4	1.3	SCHARTYPE_LCCONSONANT
+character	'q'	0.4	1.3	SCHARTYPE_LCCONSONANT
+character	'y'	0.4	1.3	SCHARTYPE_LCCONSONANT
+character	'-'	0.6	0.6	SCHARTYPE_SPECIAL
+character	','	0.8	1.2	SCHARTYPE_SPECIAL
+character	'.'	0.9	1	SCHARTYPE_SPECIAL
+
+;poss_subst	Xx
+;poss_subst	Yy
+;poss_subst	Ww
+;poss_subst	Vv
+;poss_subst	Uu
+;poss_subst	1Il
+;poss_subst	0Oo
+;poss_subst	Pp
+;poss_subst	Cc
+;poss_subst	 x0099 x0094
+;poss_subst	 x009A x0081
+;poss_subst	B8
+;poss_subst	Ss
+;poss_subst	b6
+;poss_subst	9g
+;poss_subst	Zz
+
+poss_subst	Xx
+poss_subst	Yy
+poss_subst	Ww
+poss_subst	Vv
+poss_subst	Uu
+poss_subst	1Il x00b3
+poss_subst	i x00ad
+poss_subst	0OoD x00d8
+poss_subst	Pp
+poss_subst	Cc(
+poss_subst	Kk
+poss_subst	B8
+poss_subst	5Ss
+poss_subst	9gq
+poss_subst	2zZ
+poss_subst	6Gb
+poss_subst	 x00c5 x00f2
+poss_subst	 x009a x0081
+poss_subst	 x0099 x0094
+poss_subst	 x00e2 x0093
+poss_subst	 x0080 x00f3
+poss_subst	 x00e9 x00a2
+poss_subst	 x00ed x00e8
+poss_subst	 x00e5 x00ee
+poss_subst	 x00eb x0097
+poss_subst	 x00ef x00a3
+poss_subst	 x00ea x0096
+
+[us_hand]
+character	'('	-0.1	1.1	SCHARTYPE_SPECIAL
+character	')'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'/'	0	1	SCHARTYPE_SPECIAL
+character	'$'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'0'	0	1	SCHARTYPE_NUMERIC
+character	'1'	0	1	SCHARTYPE_NUMERIC
+character	'2'	0	1	SCHARTYPE_NUMERIC
+character	'3'	0	1	SCHARTYPE_NUMERIC
+character	'4'	0	1	SCHARTYPE_NUMERIC
+character	'5'	0	1	SCHARTYPE_NUMERIC
+character	'6'	0	1	SCHARTYPE_NUMERIC
+character	'7'	0	1	SCHARTYPE_NUMERIC
+character	'8'	0	1	SCHARTYPE_NUMERIC
+character	'9'	0	1	SCHARTYPE_NUMERIC
+character	'A'	0	1	SCHARTYPE_UCVOCAL
+character	'B'	0	1	SCHARTYPE_UCCONSONANT
+character	'C'	0	1	SCHARTYPE_UCCONSONANT
+character	'D'	0	1	SCHARTYPE_UCCONSONANT
+character	'E'	0	1	SCHARTYPE_UCVOCAL
+character	'F'	0	1	SCHARTYPE_UCCONSONANT
+character	'G'	0	1	SCHARTYPE_UCCONSONANT
+character	'H'	0	1	SCHARTYPE_UCCONSONANT
+character	'I'	0	1	SCHARTYPE_UCVOCAL
+character	'J'	0	1	SCHARTYPE_UCCONSONANT
+character	'K'	0	1	SCHARTYPE_UCCONSONANT
+character	'L'	0	1	SCHARTYPE_UCCONSONANT
+character	'M'	0	1	SCHARTYPE_UCCONSONANT
+character	'N'	0	1	SCHARTYPE_UCCONSONANT
+character	'O'	0	1	SCHARTYPE_UCVOCAL
+character	'P'	0	1	SCHARTYPE_UCCONSONANT
+character	'R'	0	1	SCHARTYPE_UCCONSONANT
+character	'S'	0	1	SCHARTYPE_UCCONSONANT
+character	'T'	0	1	SCHARTYPE_UCCONSONANT
+character	'U'	0	1	SCHARTYPE_UCVOCAL
+character	'V'	0	1	SCHARTYPE_UCCONSONANT
+character	'W'	0	1	SCHARTYPE_UCCONSONANT
+character	'X'	0	1	SCHARTYPE_UCCONSONANT
+character	'Y'	0	1	SCHARTYPE_UCCONSONANT
+character	'Z'	0	1	SCHARTYPE_UCCONSONANT
+character	'b'	0	1	SCHARTYPE_LCCONSONANT
+character	'd'	0	1	SCHARTYPE_LCCONSONANT
+character	'f'	0	1	SCHARTYPE_LCCONSONANT
+character	'h'	0	1	SCHARTYPE_LCCONSONANT
+character	'k'	0	1	SCHARTYPE_LCCONSONANT
+character	'l'	0	1	SCHARTYPE_LCCONSONANT
+character	't'	0	1	SCHARTYPE_LCCONSONANT
+character	'@'	0	1	SCHARTYPE_SPECIAL
+character	'&'	0	1	SCHARTYPE_SPECIAL
+character	'Q'	0	1.1	SCHARTYPE_UCCONSONANT
+character	'i'	0.2	1	SCHARTYPE_LCVOCAL
+character	'j'	0.2	1.6	SCHARTYPE_LCCONSONANT
+character	'*'	0.3	0.7	SCHARTYPE_SPECIAL
+character	'a'	0.4	1	SCHARTYPE_LCVOCAL
+character	'c'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'e'	0.4	1	SCHARTYPE_LCVOCAL
+character	'm'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'n'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'o'	0.4	1	SCHARTYPE_LCVOCAL
+character	'r'	0.4	1	SCHARTYPE_LCCONSONANT
+character	's'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'u'	0.4	1	SCHARTYPE_LCVOCAL
+character	'v'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'w'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'x'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'z'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'g'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'p'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'q'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'y'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'-'	0.6	0.6	SCHARTYPE_SPECIAL
+character	','	0.8	1.2	SCHARTYPE_SPECIAL
+character	'.'	0.9	1	SCHARTYPE_SPECIAL
+poss_subst	Xx
+poss_subst	Yy
+poss_subst	Ww
+poss_subst	Vv
+poss_subst	Uu
+poss_subst	1Il
+poss_subst	0Oo
+poss_subst	Pp
+poss_subst	Cc(
+poss_subst	Kk
+poss_subst	B8
+poss_subst	5Ss
+poss_subst	9gq
+poss_subst	2zZ
+poss_subst	6Gb
+	
+[de_hand]
+character	142	-0.1	1	SCHARTYPE_UCVOCAL	0xc4
+character	153	-0.1	1	SCHARTYPE_UCVOCAL	0xd6
+character	154	-0.1	1	SCHARTYPE_UCVOCAL	0xdc
+character	'('	-0.1	1.1	SCHARTYPE_SPECIAL
+character	')'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'/'	0	1	SCHARTYPE_SPECIAL
+character	'$'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'0'	0	1	SCHARTYPE_NUMERIC
+character	'1'	0	1	SCHARTYPE_NUMERIC
+character	'2'	0	1	SCHARTYPE_NUMERIC
+character	'3'	0	1	SCHARTYPE_NUMERIC
+character	'4'	0	1	SCHARTYPE_NUMERIC
+character	'5'	0	1	SCHARTYPE_NUMERIC
+character	'6'	0	1	SCHARTYPE_NUMERIC
+character	'7'	0	1	SCHARTYPE_NUMERIC
+character	'8'	0	1	SCHARTYPE_NUMERIC
+character	'9'	0	1	SCHARTYPE_NUMERIC
+character	'A'	0	1	SCHARTYPE_UCVOCAL
+character	'B'	0	1	SCHARTYPE_UCCONSONANT
+character	'C'	0	1	SCHARTYPE_UCCONSONANT
+character	'D'	0	1	SCHARTYPE_UCCONSONANT
+character	'E'	0	1	SCHARTYPE_UCVOCAL
+character	'F'	0	1	SCHARTYPE_UCCONSONANT
+character	'G'	0	1	SCHARTYPE_UCCONSONANT
+character	'H'	0	1	SCHARTYPE_UCCONSONANT
+character	'I'	0	1	SCHARTYPE_UCVOCAL
+character	'J'	0	1	SCHARTYPE_UCCONSONANT
+character	'K'	0	1	SCHARTYPE_UCCONSONANT
+character	'L'	0	1	SCHARTYPE_UCCONSONANT
+character	'M'	0	1	SCHARTYPE_UCCONSONANT
+character	'N'	0	1	SCHARTYPE_UCCONSONANT
+character	'O'	0	1	SCHARTYPE_UCVOCAL
+character	'P'	0	1	SCHARTYPE_UCCONSONANT
+character	'R'	0	1	SCHARTYPE_UCCONSONANT
+character	'S'	0	1	SCHARTYPE_UCCONSONANT
+character	'T'	0	1	SCHARTYPE_UCCONSONANT
+character	'U'	0	1	SCHARTYPE_UCVOCAL
+character	'V'	0	1	SCHARTYPE_UCCONSONANT
+character	'W'	0	1	SCHARTYPE_UCCONSONANT
+character	'X'	0	1	SCHARTYPE_UCCONSONANT
+character	'Y'	0	1	SCHARTYPE_UCCONSONANT
+character	'Z'	0	1	SCHARTYPE_UCCONSONANT
+character	'b'	0	1	SCHARTYPE_LCCONSONANT
+character	'd'	0	1	SCHARTYPE_LCCONSONANT
+character	'f'	0	1	SCHARTYPE_LCCONSONANT
+character	'h'	0	1	SCHARTYPE_LCCONSONANT
+character	'k'	0	1	SCHARTYPE_LCCONSONANT
+character	'l'	0	1	SCHARTYPE_LCCONSONANT
+character	't'	0	1	SCHARTYPE_LCCONSONANT
+character	'@'	0	1	SCHARTYPE_SPECIAL
+character	'&'	0	1	SCHARTYPE_SPECIAL
+character	'Q'	0	1.1	SCHARTYPE_UCCONSONANT
+character	225	0	1.1	SCHARTYPE_LCCONSONANT	0xdf
+character	'i'	0.2	1	SCHARTYPE_LCVOCAL
+character	129	0.2	1	SCHARTYPE_LCVOCAL	0xfc
+character	132	0.2	1	SCHARTYPE_LCVOCAL	0xe4
+character	148	0.2	1	SCHARTYPE_LCVOCAL	0xf6
+character	'j'	0.2	1.6	SCHARTYPE_LCCONSONANT
+character	'*'	0.3	0.7	SCHARTYPE_SPECIAL
+character	'a'	0.4	1	SCHARTYPE_LCVOCAL
+character	'c'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'e'	0.4	1	SCHARTYPE_LCVOCAL
+character	'm'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'n'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'o'	0.4	1	SCHARTYPE_LCVOCAL
+character	'r'	0.4	1	SCHARTYPE_LCCONSONANT
+character	's'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'u'	0.4	1	SCHARTYPE_LCVOCAL
+character	'v'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'w'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'x'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'z'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'g'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'p'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'q'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'y'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'-'	0.6	0.6	SCHARTYPE_SPECIAL
+character	','	0.8	1.2	SCHARTYPE_SPECIAL
+character	'.'	0.9	1	SCHARTYPE_SPECIAL
+poss_subst	Xx
+poss_subst	Yy
+poss_subst	Ww
+poss_subst	Vv
+poss_subst	Uu
+poss_subst	1Il
+poss_subst	0Oo
+poss_subst	Pp
+poss_subst	Cc(
+poss_subst	 x0099 x0094
+poss_subst	 x009A x0081
+poss_subst	Kk
+poss_subst	B8
+poss_subst	5Ss
+poss_subst	9gq
+poss_subst	2zZ
+poss_subst	6Gb
+	
+
+[us_micr]
+character	'0'	0	1	SCHARTYPE_NUMERIC
+character	'1'	0	1	SCHARTYPE_NUMERIC
+character	'2'	0	1	SCHARTYPE_NUMERIC
+character	'3'	0	1	SCHARTYPE_NUMERIC
+character	'4'	0	1	SCHARTYPE_NUMERIC
+character	'5'	0	1	SCHARTYPE_NUMERIC
+character	'6'	0	1	SCHARTYPE_NUMERIC
+character	'7'	0	1	SCHARTYPE_NUMERIC
+character	'8'	0	1	SCHARTYPE_NUMERIC
+character	'9'	0	1	SCHARTYPE_NUMERIC
+character	'/'	0	1	SCHARTYPE_SPECIAL
+character	'-'	0.1	0.9	SCHARTYPE_SPECIAL
+character	'O'	0	1	SCHARTYPE_SPECIAL
+character	'T'	0	1	SCHARTYPE_SPECIAL
+
+
+[us_hand]
+character	'('	-0.1	1.1	SCHARTYPE_SPECIAL
+character	')'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'/'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'$'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'0'	0	1	SCHARTYPE_NUMERIC
+character	'1'	0	1	SCHARTYPE_NUMERIC
+character	'2'	0	1	SCHARTYPE_NUMERIC
+character	'3'	0	1	SCHARTYPE_NUMERIC
+character	'4'	0	1	SCHARTYPE_NUMERIC
+character	'5'	0	1	SCHARTYPE_NUMERIC
+character	'6'	0	1	SCHARTYPE_NUMERIC
+character	'7'	0	1	SCHARTYPE_NUMERIC
+character	'8'	0	1	SCHARTYPE_NUMERIC
+character	'9'	0	1	SCHARTYPE_NUMERIC
+character	'A'	0	1	SCHARTYPE_UCVOCAL
+character	'B'	0	1	SCHARTYPE_UCCONSONANT
+character	'C'	0	1	SCHARTYPE_UCCONSONANT
+character	'D'	0	1	SCHARTYPE_UCCONSONANT
+character	'E'	0	1	SCHARTYPE_UCVOCAL
+character	'F'	0	1	SCHARTYPE_UCCONSONANT
+character	'G'	0	1	SCHARTYPE_UCCONSONANT
+character	'H'	0	1	SCHARTYPE_UCCONSONANT
+character	'I'	0	1	SCHARTYPE_UCVOCAL
+character	'J'	0	1	SCHARTYPE_UCCONSONANT
+character	'K'	0	1	SCHARTYPE_UCCONSONANT
+character	'L'	0	1	SCHARTYPE_UCCONSONANT
+character	'M'	0	1	SCHARTYPE_UCCONSONANT
+character	'N'	0	1	SCHARTYPE_UCCONSONANT
+character	'O'	0	1	SCHARTYPE_UCVOCAL
+character	'P'	0	1	SCHARTYPE_UCCONSONANT
+character	'R'	0	1	SCHARTYPE_UCCONSONANT
+character	'S'	0	1	SCHARTYPE_UCCONSONANT
+character	'T'	0	1	SCHARTYPE_UCCONSONANT
+character	'U'	0	1	SCHARTYPE_UCVOCAL
+character	'V'	0	1	SCHARTYPE_UCCONSONANT
+character	'W'	0	1	SCHARTYPE_UCCONSONANT
+character	'X'	0	1	SCHARTYPE_UCCONSONANT
+character	'Y'	0	1	SCHARTYPE_UCCONSONANT
+character	'Z'	0	1	SCHARTYPE_UCCONSONANT
+character	'b'	0	1	SCHARTYPE_LCCONSONANT
+character	'd'	0	1	SCHARTYPE_LCCONSONANT
+character	'f'	0	1	SCHARTYPE_LCCONSONANT
+character	'h'	0	1	SCHARTYPE_LCCONSONANT
+character	'k'	0	1	SCHARTYPE_LCCONSONANT
+character	'l'	0	1	SCHARTYPE_LCCONSONANT
+character	't'	0	1	SCHARTYPE_LCCONSONANT
+character	'@'	0	1	SCHARTYPE_SPECIAL
+character	'&'	0	1	SCHARTYPE_SPECIAL
+character	'Q'	0	1.1	SCHARTYPE_UCCONSONANT
+character	'i'	0.2	1	SCHARTYPE_LCVOCAL
+character	'j'	0.2	1.6	SCHARTYPE_LCCONSONANT
+character	'*'	0.3	0.7	SCHARTYPE_SPECIAL
+character	'a'	0.4	1	SCHARTYPE_LCVOCAL
+character	'c'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'e'	0.4	1	SCHARTYPE_LCVOCAL
+character	'm'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'n'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'o'	0.4	1	SCHARTYPE_LCVOCAL
+character	'r'	0.4	1	SCHARTYPE_LCCONSONANT
+character	's'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'u'	0.4	1	SCHARTYPE_LCVOCAL
+character	'v'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'w'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'x'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'z'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'g'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'p'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'q'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'y'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'-'	0.6	0.6	SCHARTYPE_SPECIAL
+character	','	0.8	1.2	SCHARTYPE_SPECIAL
+character	'.'	0.9	1	SCHARTYPE_SPECIAL
+poss_subst	Xx
+poss_subst	Yy
+poss_subst	Ww
+poss_subst	Vv
+poss_subst	Uu
+poss_subst	1Il/
+poss_subst	0Oo
+poss_subst	Pp
+poss_subst	Cc(
+poss_subst	Kk
+poss_subst	B8
+poss_subst	5Ss
+poss_subst	9gq
+poss_subst	2zZ
+poss_subst	6Gb
+	
+
+[ru_hand]
+character	'0'	0	1	SCHARTYPE_NUMERIC
+character	'1'	0	1	SCHARTYPE_NUMERIC
+character	'2'	0	1	SCHARTYPE_NUMERIC
+character	'3'	0	1	SCHARTYPE_NUMERIC
+character	'4'	0	1	SCHARTYPE_NUMERIC
+character	'5'	0	1	SCHARTYPE_NUMERIC
+character	'6'	0	1	SCHARTYPE_NUMERIC
+character	'7'	0	1	SCHARTYPE_NUMERIC
+character	'8'	0	1	SCHARTYPE_NUMERIC
+character	'9'	0	1	SCHARTYPE_NUMERIC
+character	'#'	0	1	SCHARTYPE_UCVOCAL
+character	'*'	0	1	SCHARTYPE_UCVOCAL
+character	':'	0	1	SCHARTYPE_UCVOCAL
+character	';'	0	1	SCHARTYPE_UCVOCAL
+character	'A'	0	1	SCHARTYPE_UCVOCAL
+character	'B'	0	1	SCHARTYPE_UCVOCAL
+character	'C'	0	1	SCHARTYPE_UCVOCAL
+character	'D'	0	1	SCHARTYPE_UCVOCAL
+character	'E'	0	1	SCHARTYPE_UCVOCAL
+character	'F'	0	1	SCHARTYPE_UCVOCAL
+character	'G'	0	1	SCHARTYPE_UCVOCAL
+character	'H'	0	1	SCHARTYPE_UCVOCAL
+character	'I'	0	1	SCHARTYPE_UCVOCAL
+character	'J'	0	1	SCHARTYPE_UCVOCAL
+character	'K'	0	1	SCHARTYPE_UCVOCAL
+character	'L'	0	1	SCHARTYPE_UCVOCAL
+character	'M'	0	1	SCHARTYPE_UCVOCAL
+character	'N'	0	1	SCHARTYPE_UCVOCAL
+character	'O'	0	1	SCHARTYPE_UCVOCAL
+character	'P'	0	1	SCHARTYPE_UCVOCAL
+character	'Q'	0	1	SCHARTYPE_UCVOCAL
+character	'R'	0	1	SCHARTYPE_UCVOCAL
+character	'S'	0	1	SCHARTYPE_UCVOCAL
+character	'T'	0	1	SCHARTYPE_UCVOCAL
+character	'U'	0	1	SCHARTYPE_UCVOCAL
+character	'V'	0	1	SCHARTYPE_UCVOCAL
+character	'W'	0	1	SCHARTYPE_UCVOCAL
+character	'X'	0	1	SCHARTYPE_UCVOCAL
+character	'Y'	0	1	SCHARTYPE_UCVOCAL
+character	'Z'	0	1	SCHARTYPE_UCVOCAL
+character	'a'	0	1	SCHARTYPE_UCVOCAL
+character	'e'	0	1	SCHARTYPE_UCVOCAL
+character	'q'	0	1	SCHARTYPE_UCVOCAL
+character	132	0	1	SCHARTYPE_UCVOCAL
+character	142	0	1	SCHARTYPE_UCVOCAL
+character	153	0	1	SCHARTYPE_UCVOCAL
+character	154	0	1	SCHARTYPE_UCVOCAL
+
+poss_subst	0Oo
+
+
+[fr_hand]
+character	133	-0.2	1	SCHARTYPE_LCVOCAL	0xE0 
+character	183	-0.1	1	SCHARTYPE_UCVOCAL	0xC0 
+character	131	-0.2	1	SCHARTYPE_LCVOCAL	0xE2 
+character	182	-0.1	1	SCHARTYPE_UCVOCAL	0xC2 
+character	130	-0.2	1	SCHARTYPE_LCVOCAL	0xE9 
+character	144	-0.1	1	SCHARTYPE_UCVOCAL	0xC9 
+character	138	-0.2	1	SCHARTYPE_LCVOCAL	0xE8 
+character	212	-0.1	1	SCHARTYPE_UCVOCAL	0xC8 
+character	136	-0.2	1	SCHARTYPE_LCVOCAL	0xEA 
+character	210	-0.1	1	SCHARTYPE_UCVOCAL	0xCA 
+character	137	-0.2	1	SCHARTYPE_LCVOCAL	0xEB 
+character	139	-0.0	1	SCHARTYPE_UCVOCAL	0xC0 
+character	140	-0.2	1	SCHARTYPE_LCVOCAL	0xEE 
+character	215	-0.1	1	SCHARTYPE_UCVOCAL	0xCE 
+character	147	-0.2	1	SCHARTYPE_LCVOCAL	0xF4 
+character	226	-0.1	1	SCHARTYPE_UCVOCAL	0xD4 
+character	151	-0.2	1	SCHARTYPE_LCVOCAL	0xF9 
+character	235	-0.1	1	SCHARTYPE_UCVOCAL	0xD9 
+character	150	-0.2	1	SCHARTYPE_LCVOCAL	0xFB 
+character	234	-0.1	1	SCHARTYPE_UCVOCAL	0xDB 
+character	129	-0.2	1	SCHARTYPE_LCVOCAL	0xFC 
+character	154	-0.1	1	SCHARTYPE_UCVOCAL	0xDC 
+character	128	 0	1.2	SCHARTYPE_UCCONSONANT	0xC7 
+character	145	 0.4	1	SCHARTYPE_LCVOCAL	0xE6 
+character	146	 0	1	SCHARTYPE_UCVOCAL	0xC6 
+character	'('	-0.1	1.1	SCHARTYPE_SPECIAL
+character	')'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'/'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'$'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'0'	0	1	SCHARTYPE_NUMERIC
+character	'1'	0	1	SCHARTYPE_NUMERIC
+character	'2'	0	1	SCHARTYPE_NUMERIC
+character	'3'	0	1	SCHARTYPE_NUMERIC
+character	'4'	0	1	SCHARTYPE_NUMERIC
+character	'5'	0	1	SCHARTYPE_NUMERIC
+character	'6'	0	1	SCHARTYPE_NUMERIC
+character	'7'	0	1	SCHARTYPE_NUMERIC
+character	'8'	0	1	SCHARTYPE_NUMERIC
+character	'9'	0	1	SCHARTYPE_NUMERIC
+character	'A'	0	1	SCHARTYPE_UCVOCAL
+character	'B'	0	1	SCHARTYPE_UCCONSONANT
+character	'C'	0	1	SCHARTYPE_UCCONSONANT
+character	'D'	0	1	SCHARTYPE_UCCONSONANT
+character	'E'	0	1	SCHARTYPE_UCVOCAL
+character	'F'	0	1	SCHARTYPE_UCCONSONANT
+character	'G'	0	1	SCHARTYPE_UCCONSONANT
+character	'H'	0	1	SCHARTYPE_UCCONSONANT
+character	'I'	0	1	SCHARTYPE_UCVOCAL
+character	'J'	0	1	SCHARTYPE_UCCONSONANT
+character	'K'	0	1	SCHARTYPE_UCCONSONANT
+character	'L'	0	1	SCHARTYPE_UCCONSONANT
+character	'M'	0	1	SCHARTYPE_UCCONSONANT
+character	'N'	0	1	SCHARTYPE_UCCONSONANT
+character	'O'	0	1	SCHARTYPE_UCVOCAL
+character	'P'	0	1	SCHARTYPE_UCCONSONANT
+character	'R'	0	1	SCHARTYPE_UCCONSONANT
+character	'S'	0	1	SCHARTYPE_UCCONSONANT
+character	'T'	0	1	SCHARTYPE_UCCONSONANT
+character	'U'	0	1	SCHARTYPE_UCVOCAL
+character	'V'	0	1	SCHARTYPE_UCCONSONANT
+character	'W'	0	1	SCHARTYPE_UCCONSONANT
+character	'X'	0	1	SCHARTYPE_UCCONSONANT
+character	'Y'	0	1	SCHARTYPE_UCCONSONANT
+character	'Z'	0	1	SCHARTYPE_UCCONSONANT
+character	'b'	0	1	SCHARTYPE_LCCONSONANT
+character	'd'	0	1	SCHARTYPE_LCCONSONANT
+character	'f'	0	1	SCHARTYPE_LCCONSONANT
+character	'h'	0	1	SCHARTYPE_LCCONSONANT
+character	'k'	0	1	SCHARTYPE_LCCONSONANT
+character	'l'	0	1	SCHARTYPE_LCCONSONANT
+character	't'	0	1	SCHARTYPE_LCCONSONANT
+character	'@'	0	1	SCHARTYPE_SPECIAL
+character	'&'	0	1	SCHARTYPE_SPECIAL
+character	'Q'	0	1.1	SCHARTYPE_UCCONSONANT
+character	225	0	1.1	SCHARTYPE_UCCONSONANT	0xdf
+character	'i'	0.2	1	SCHARTYPE_LCVOCAL
+character	'j'	0.2	1.6	SCHARTYPE_LCCONSONANT
+character	'*'	0.3	0.7	SCHARTYPE_SPECIAL
+character	'a'	0.4	1	SCHARTYPE_LCVOCAL
+character	'c'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'e'	0.4	1	SCHARTYPE_LCVOCAL
+character	'm'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'n'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'o'	0.4	1	SCHARTYPE_LCVOCAL
+character	'r'	0.4	1	SCHARTYPE_LCCONSONANT
+character	's'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'u'	0.4	1	SCHARTYPE_LCVOCAL
+character	'v'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'w'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'x'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'z'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'g'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'p'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'q'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'y'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'-'	0.6	0.6	SCHARTYPE_SPECIAL
+character	','	0.8	1.2	SCHARTYPE_SPECIAL
+character	'.'	0.9	1	SCHARTYPE_SPECIAL
+poss_subst	Xx
+poss_subst	Yy
+poss_subst	Ww
+poss_subst	Vv
+poss_subst	Uu
+poss_subst	1Il/
+poss_subst	0Oo
+poss_subst	Pp
+poss_subst	Cc(
+poss_subst	Kk
+poss_subst	B8
+poss_subst	5Ss
+poss_subst	9gq
+poss_subst	2zZ
+poss_subst	6Gb
+
+[eu_hand]
+character	247	0	1	SCHARTYPE_SPECIAL	0xfd
+character	173	-0.2	1	SCHARTYPE_UCVOCAL	0x0130
+character	179	0.4	1	SCHARTYPE_LCVOCAL	0x0131
+character	142	-0.1	1	SCHARTYPE_UCVOCAL	0xc4
+character	132	0.2	1	SCHARTYPE_LCVOCAL	0xe4
+character	183	-0.1	1	SCHARTYPE_UCVOCAL	0x00C0 
+character	133 	 0.1	1	SCHARTYPE_LCVOCAL	0x00E0 
+character	182	-0.1	1	SCHARTYPE_UCVOCAL	0x00C2 
+character	131	 0.1	1	SCHARTYPE_LCVOCAL	0x00E2 
+character	187	-0.1	1	SCHARTYPE_UCVOCAL	0x00C1 
+character	160	 0.1	1	SCHARTYPE_LCVOCAL	0x00E1 
+character	230	-0.1	1	SCHARTYPE_UCVOCAL	0x00C3 
+character	224	 0.1	1	SCHARTYPE_LCVOCAL	0x00E3 
+character	241	-0.1	1	SCHARTYPE_UCVOCAL	0x00C6 
+character	240	 0.1	1	SCHARTYPE_LCVOCAL	0x00E6 
+character	143	-0.1	1	SCHARTYPE_UCVOCAL	0x00C5 
+character	134	 0.1	1	SCHARTYPE_LCVOCAL	0x00E5 
+character	128	 0	1.1	SCHARTYPE_UCCONSONANT	0x00C7 
+character	243	 0.4	1.1	SCHARTYPE_LCCONSONANT	0x00E7 
+character	144	-0.1	1	SCHARTYPE_UCVOCAL	0x00C9 
+character	130	 0.1	1	SCHARTYPE_LCVOCAL	0x00E9 
+character	212	-0.1	1	SCHARTYPE_UCVOCAL	0x00C8 
+character	138	 0.1	1	SCHARTYPE_LCVOCAL	0x00E8 
+character	210	-0.1	1	SCHARTYPE_UCVOCAL	0x00CA 
+character	136	-0.2	1	SCHARTYPE_LCVOCAL	0x00EA 
+character	137	 0.1	1	SCHARTYPE_LCVOCAL	0x00EB 
+character	156	-0.1 	1	SCHARTYPE_UCCONSONANT	0x011E 
+character	231	 0.1 	1.6	SCHARTYPE_LCCONSONANT	0x011F 
+character	139	-0.0	1	SCHARTYPE_UCVOCAL	0x00EF 
+character	140	 0.1	1	SCHARTYPE_LCVOCAL	0x00EE 
+character	161	 0.1	1	SCHARTYPE_LCVOCAL	0x00ED 
+character	165	-0.1	1	SCHARTYPE_UCCONSONANT	0x00D1 
+character	164	 0.1	1	SCHARTYPE_LCCONSONANT	0x00F1 
+character	226	-0.1	1	SCHARTYPE_UCVOCAL	0x00D4
+character	147	 0.1	1	SCHARTYPE_LCVOCAL	0x00F4 
+character	153	-0.1	1	SCHARTYPE_UCVOCAL	0x00D6 
+character	148	 0.1	1	SCHARTYPE_LCVOCAL	0x00F6 
+character	146	 0	1	SCHARTYPE_UCVOCAL	0x0152 
+character	145	 0.4	1	SCHARTYPE_LCVOCAL	0x0153 
+character	233	-0.1	1	SCHARTYPE_UCVOCAL	0x00D3 
+character	162	 0.1	1	SCHARTYPE_LCVOCAL	0x00F3 
+character	237	 0	1	SCHARTYPE_UCVOCAL	0x00D8 
+character	232	 0.4	1	SCHARTYPE_LCVOCAL	0x00F8 
+character	229	-0.1	1	SCHARTYPE_UCVOCAL	0x00D5 
+character	238	 0.1	1	SCHARTYPE_LCVOCAL	0x00F5 
+character	235	-0.1	1	SCHARTYPE_UCVOCAL	0x00D9 
+character	151	 0.1	1	SCHARTYPE_LCVOCAL	0x00F9 
+character	154	-0.1	1	SCHARTYPE_LCVOCAL	0x00DC 
+character	129	 0.1	1	SCHARTYPE_LCVOCAL	0x00FC 
+character	239	-0.1	1	SCHARTYPE_LCVOCAL	0x00DA 
+character	163	 0.1	1	SCHARTYPE_LCVOCAL	0x00FA 
+character	234	-0.1	1	SCHARTYPE_LCVOCAL	0x00DB 
+character	150	 0.1	1	SCHARTYPE_LCVOCAL	0x00FB 
+character	225	 0	1.1	SCHARTYPE_UCCONSONANT	0x00DF 
+character	197	 0	1.1	SCHARTYPE_UCCONSONANT	0x015E 
+character	242	 0.4	1.1	SCHARTYPE_LCCONSONANT	0x015F 
+character	'('	-0.1	1.1	SCHARTYPE_SPECIAL
+character	')'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'/'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'$'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'0'	0	1	SCHARTYPE_NUMERIC
+character	'1'	0	1	SCHARTYPE_NUMERIC
+character	'2'	0	1	SCHARTYPE_NUMERIC
+character	'3'	0	1	SCHARTYPE_NUMERIC
+character	'4'	0	1	SCHARTYPE_NUMERIC
+character	'5'	0	1	SCHARTYPE_NUMERIC
+character	'6'	0	1	SCHARTYPE_NUMERIC
+character	'7'	0	1	SCHARTYPE_NUMERIC
+character	'8'	0	1	SCHARTYPE_NUMERIC
+character	'9'	0	1	SCHARTYPE_NUMERIC
+character	'A'	0	1	SCHARTYPE_UCVOCAL
+character	'B'	0	1	SCHARTYPE_UCCONSONANT
+character	'C'	0	1	SCHARTYPE_UCCONSONANT
+character	'D'	0	1	SCHARTYPE_UCCONSONANT
+character	'E'	0	1	SCHARTYPE_UCVOCAL
+character	'F'	0	1	SCHARTYPE_UCCONSONANT
+character	'G'	0	1	SCHARTYPE_UCCONSONANT
+character	'H'	0	1	SCHARTYPE_UCCONSONANT
+character	'I'	0	1	SCHARTYPE_UCVOCAL
+character	'J'	0	1	SCHARTYPE_UCCONSONANT
+character	'K'	0	1	SCHARTYPE_UCCONSONANT
+character	'L'	0	1	SCHARTYPE_UCCONSONANT
+character	'M'	0	1	SCHARTYPE_UCCONSONANT
+character	'N'	0	1	SCHARTYPE_UCCONSONANT
+character	'O'	0	1	SCHARTYPE_UCVOCAL
+character	'P'	0	1	SCHARTYPE_UCCONSONANT
+character	'R'	0	1	SCHARTYPE_UCCONSONANT
+character	'S'	0	1	SCHARTYPE_UCCONSONANT
+character	'T'	0	1	SCHARTYPE_UCCONSONANT
+character	'U'	0	1	SCHARTYPE_UCVOCAL
+character	'V'	0	1	SCHARTYPE_UCCONSONANT
+character	'W'	0	1	SCHARTYPE_UCCONSONANT
+character	'X'	0	1	SCHARTYPE_UCCONSONANT
+character	'Y'	0	1	SCHARTYPE_UCCONSONANT
+character	'Z'	0	1	SCHARTYPE_UCCONSONANT
+character	'b'	0	1	SCHARTYPE_LCCONSONANT
+character	'd'	0	1	SCHARTYPE_LCCONSONANT
+character	'f'	0	1	SCHARTYPE_LCCONSONANT
+character	'h'	0	1	SCHARTYPE_LCCONSONANT
+character	'k'	0	1	SCHARTYPE_LCCONSONANT
+character	'l'	0	1	SCHARTYPE_LCCONSONANT
+character	't'	0	1	SCHARTYPE_LCCONSONANT
+character	'@'	0	1	SCHARTYPE_SPECIAL
+character	'&'	0	1	SCHARTYPE_SPECIAL
+character	'?'	0	1	SCHARTYPE_SPECIAL
+character	'%'	0	1	SCHARTYPE_SPECIAL
+character	'#'	0	1	SCHARTYPE_SPECIAL
+character	'Q'	0	1.1	SCHARTYPE_UCCONSONANT
+character	'á'	0	1.1	SCHARTYPE_UCCONSONANT
+character	'i'	0.2	1	SCHARTYPE_LCVOCAL
+character	'j'	0.2	1.6	SCHARTYPE_LCCONSONANT
+character	'*'	0.3	0.7	SCHARTYPE_SPECIAL
+character	'a'	0.4	1	SCHARTYPE_LCVOCAL
+character	'c'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'e'	0.4	1	SCHARTYPE_LCVOCAL
+character	'm'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'n'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'o'	0.4	1	SCHARTYPE_LCVOCAL
+character	'r'	0.4	1	SCHARTYPE_LCCONSONANT
+character	's'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'u'	0.4	1	SCHARTYPE_LCVOCAL
+character	'v'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'w'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'x'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'z'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'g'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'p'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'q'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'y'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'-'	0.6	0.6	SCHARTYPE_SPECIAL
+character	','	0.8	1.2	SCHARTYPE_SPECIAL
+character	'.'	0.9	1	SCHARTYPE_SPECIAL
+
+poss_subst	Xx
+poss_subst	Yy
+poss_subst	Ww
+poss_subst	Vv
+poss_subst	Uu
+poss_subst	1Il/ x00b3
+poss_subst	i x00ad
+poss_subst	0Oo
+poss_subst	Pp
+poss_subst	Cc(
+poss_subst	Kk
+poss_subst	B8
+poss_subst	5Ss
+poss_subst	9gq
+poss_subst	2zZ
+poss_subst	6Gb
+poss_subst	 x00c5 x00f2
+poss_subst	 x009a x0081
+poss_subst	 x0099 x0094
+poss_subst	 x00e2 x0093
+poss_subst	 x0080 x00f3
+poss_subst	 x00e9 x00a2
+poss_subst	 x00ed x00e8
+poss_subst	 x00e5 x00ee
+poss_subst	 x00eb x0097
+poss_subst	 x00ef x00a3
+poss_subst	 x00ea x0096
+
+[eu_mach]
+character	247	0	1	SCHARTYPE_SPECIAL	0xfd
+character	142	-0.1	1	SCHARTYPE_UCVOCAL	0xc4
+character	132	0.2	1	SCHARTYPE_LCVOCAL	0xe4
+character	183	-0.1	1	SCHARTYPE_UCVOCAL	0x00C0 
+character	133 	 0.1	1	SCHARTYPE_LCVOCAL	0x00E0 
+character	182	-0.1	1	SCHARTYPE_UCVOCAL	0x00C2 
+character	131	 0.1	1	SCHARTYPE_LCVOCAL	0x00E2 
+character	187	-0.1	1	SCHARTYPE_UCVOCAL	0x00C1 
+character	160	 0.1	1	SCHARTYPE_LCVOCAL	0x00E1 
+character	230	-0.1	1	SCHARTYPE_UCVOCAL	0x00C3 
+character	224	 0.1	1	SCHARTYPE_LCVOCAL	0x00E3 
+character	241	-0.1	1	SCHARTYPE_UCVOCAL	0x00C6 
+character	240	 0.1	1	SCHARTYPE_LCVOCAL	0x00E6 
+character	143	-0.1	1	SCHARTYPE_UCVOCAL	0x00C5 
+character	134	 0.1	1	SCHARTYPE_LCVOCAL	0x00E5 
+character	128	 0	1.2	SCHARTYPE_UCCONSONANT	0x00C7 
+character	243	 0.4	1.2	SCHARTYPE_LCCONSONANT	0x00E7 
+character	144	-0.1	1	SCHARTYPE_UCVOCAL	0x00C9 
+character	130	 0.1	1	SCHARTYPE_LCVOCAL	0x00E9 
+character	212	-0.1	1	SCHARTYPE_UCVOCAL	0x00C8 
+character	138	 0.1	1	SCHARTYPE_LCVOCAL	0x00E8 
+character	210	-0.1	1	SCHARTYPE_UCVOCAL	0x00CA 
+character	136	-0.2	1	SCHARTYPE_LCVOCAL	0x00EA 
+character	137	 0.1	1	SCHARTYPE_LCVOCAL	0x00EB 
+character	156	-0.1 	1	SCHARTYPE_UCCONSONANT	0x011E 
+character	231	 0.1 	1.2	SCHARTYPE_LCCONSONANT	0x011F 
+character	139	-0.0	1	SCHARTYPE_UCVOCAL	0x00EF 
+character	140	 0.1	1	SCHARTYPE_LCVOCAL	0x00EE 
+;character	161	 0.1	1	SCHARTYPE_LCVOCAL	0x00ED 
+character	165	-0.1	1	SCHARTYPE_UCCONSONANT	0x00D1 
+character	164	 0.1	1	SCHARTYPE_LCCONSONANT	0x00F1 
+character	226	-0.1	1	SCHARTYPE_UCVOCAL	0x00D4
+character	147	 0.1	1	SCHARTYPE_LCVOCAL	0x00F4 
+character	153	-0.1	1	SCHARTYPE_UCVOCAL	0x00D6 
+character	148	 0.1	1	SCHARTYPE_LCVOCAL	0x00F6 
+character	146	 0	1	SCHARTYPE_UCVOCAL	0x0152 
+character	145	 0.4	1	SCHARTYPE_LCVOCAL	0x0153 
+character	233	-0.1	1	SCHARTYPE_UCVOCAL	0x00D3 
+character	162	 0.1	1	SCHARTYPE_LCVOCAL	0x00F3 
+;character	237	 0	1	SCHARTYPE_NUMERIC	48 
+character	237	 0	1	SCHARTYPE_UCVOCAL	0x00D8 
+character	232	 0.4	1	SCHARTYPE_LCVOCAL	0x00F8 
+character	229	-0.1	1	SCHARTYPE_UCVOCAL	0x00D5 
+character	238	 0.1	1	SCHARTYPE_LCVOCAL	0x00F5 
+character	235	-0.1	1	SCHARTYPE_UCVOCAL	0x00D9 
+character	151	 0.1	1	SCHARTYPE_LCVOCAL	0x00F9 
+character	154	-0.1	1	SCHARTYPE_LCVOCAL	0x00DC 
+character	129	 0.1	1	SCHARTYPE_LCVOCAL	0x00FC 
+character	239	-0.1	1	SCHARTYPE_LCVOCAL	0x00DA 
+character	163	 0.1	1	SCHARTYPE_LCVOCAL	0x00FA 
+character	234	-0.1	1	SCHARTYPE_LCVOCAL	0x00DB 
+character	150	 0.1	1	SCHARTYPE_LCVOCAL	0x00FB 
+character	225	 0	1.1	SCHARTYPE_UCCONSONANT	0x00DF 
+character	197	 0	1.2	SCHARTYPE_UCCONSONANT	0x015E 
+character	242	 0.4	1.2	SCHARTYPE_LCCONSONANT	0x015F 
+character	'('	-0.1	1.1	SCHARTYPE_SPECIAL
+character	')'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'/'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'$'	-0.1	1.1	SCHARTYPE_SPECIAL
+character	'0'	0	1	SCHARTYPE_NUMERIC
+character	'1'	0	1	SCHARTYPE_NUMERIC
+character	'2'	0	1	SCHARTYPE_NUMERIC
+character	'3'	0	1	SCHARTYPE_NUMERIC
+character	'4'	0	1	SCHARTYPE_NUMERIC
+character	'5'	0	1	SCHARTYPE_NUMERIC
+character	'6'	0	1	SCHARTYPE_NUMERIC
+character	'7'	0	1	SCHARTYPE_NUMERIC
+character	'8'	0	1	SCHARTYPE_NUMERIC
+character	'9'	0	1	SCHARTYPE_NUMERIC
+character	'A'	0	1	SCHARTYPE_UCVOCAL
+character	'B'	0	1	SCHARTYPE_UCCONSONANT
+character	'C'	0	1	SCHARTYPE_UCCONSONANT
+character	'D'	0	1	SCHARTYPE_UCCONSONANT
+character	'E'	0	1	SCHARTYPE_UCVOCAL
+character	'F'	0	1	SCHARTYPE_UCCONSONANT
+character	'G'	0	1	SCHARTYPE_UCCONSONANT
+character	'H'	0	1	SCHARTYPE_UCCONSONANT
+character	'I'	0	1	SCHARTYPE_UCVOCAL
+character	'J'	0	1	SCHARTYPE_UCCONSONANT
+character	'K'	0	1	SCHARTYPE_UCCONSONANT
+character	'L'	0	1	SCHARTYPE_UCCONSONANT
+character	'M'	0	1	SCHARTYPE_UCCONSONANT
+character	'N'	0	1	SCHARTYPE_UCCONSONANT
+character	'O'	0	1	SCHARTYPE_UCVOCAL
+character	'P'	0	1	SCHARTYPE_UCCONSONANT
+character	'R'	0	1	SCHARTYPE_UCCONSONANT
+character	'S'	0	1	SCHARTYPE_UCCONSONANT
+character	'T'	0	1	SCHARTYPE_UCCONSONANT
+character	'U'	0	1	SCHARTYPE_UCVOCAL
+character	'V'	0	1	SCHARTYPE_UCCONSONANT
+character	'W'	0	1	SCHARTYPE_UCCONSONANT
+character	'X'	0	1	SCHARTYPE_UCCONSONANT
+character	'Y'	0	1	SCHARTYPE_UCCONSONANT
+character	'Z'	0	1	SCHARTYPE_UCCONSONANT
+character	'b'	0	1	SCHARTYPE_LCCONSONANT
+character	'd'	0	1	SCHARTYPE_LCCONSONANT
+character	'f'	0	1	SCHARTYPE_LCCONSONANT
+character	'h'	0	1	SCHARTYPE_LCCONSONANT
+character	'k'	0	1	SCHARTYPE_LCCONSONANT
+character	'l'	0	1	SCHARTYPE_LCCONSONANT
+character	't'	0	1	SCHARTYPE_LCCONSONANT
+character	'@'	0	1	SCHARTYPE_SPECIAL
+character	'&'	0	1	SCHARTYPE_SPECIAL
+character	'?'	0	1	SCHARTYPE_SPECIAL
+character	'#'	0	1	SCHARTYPE_SPECIAL
+character	'%'	0	1	SCHARTYPE_SPECIAL
+character	'Q'	0	1.1	SCHARTYPE_UCCONSONANT
+character	'á'	0	1.1	SCHARTYPE_UCCONSONANT
+character	'i'	0.1	1	SCHARTYPE_LCVOCAL
+character	'j'	0.1	1.6	SCHARTYPE_LCCONSONANT
+character	'*'	0.3	0.7	SCHARTYPE_SPECIAL
+character	'a'	0.4	1	SCHARTYPE_LCVOCAL
+character	'c'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'e'	0.4	1	SCHARTYPE_LCVOCAL
+character	'm'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'n'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'o'	0.4	1	SCHARTYPE_LCVOCAL
+character	'r'	0.4	1	SCHARTYPE_LCCONSONANT
+character	's'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'u'	0.4	1	SCHARTYPE_LCVOCAL
+character	'v'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'w'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'x'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'z'	0.4	1	SCHARTYPE_LCCONSONANT
+character	'g'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'p'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'q'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'y'	0.4	1.6	SCHARTYPE_LCCONSONANT
+character	'-'	0.6	0.6	SCHARTYPE_SPECIAL
+character	','	0.8	1.2	SCHARTYPE_SPECIAL
+character	'.'	0.9	1	SCHARTYPE_SPECIAL
+
+;poss_subst	Xx
+;poss_subst	Yy
+;poss_subst	Ww
+;poss_subst	Vv
+;poss_subst	Uu
+;poss_subst	1Il
+;poss_subst	0Oo
+;poss_subst	Pp
+;poss_subst	Cc
+;poss_subst	 x0099 x0094
+;poss_subst	 x009A x0081
+;poss_subst	B8
+;poss_subst	Ss
+;poss_subst	b6
+;poss_subst	9g
+;poss_subst	Zz
+
+poss_subst	Xx
+poss_subst	Yy
+poss_subst	Ww
+poss_subst	Vv
+poss_subst	Uu
+poss_subst	1Il/ x00b3
+poss_subst	i x00ad
+poss_subst	0Oo x00d8
+poss_subst	Pp
+poss_subst	Cc(
+poss_subst	Kk
+poss_subst	B8
+poss_subst	5Ss
+poss_subst	9gq
+poss_subst	2zZ
+poss_subst	6Gb
+poss_subst	 x00c5 x00f2
+poss_subst	 x009a x0081
+poss_subst	 x0099 x0094
+poss_subst	 x00e2 x0093
+poss_subst	 x0080 x00f3
+poss_subst	 x00e9 x00a2
+poss_subst	 x00ed x00e8
+poss_subst	 x00e5 x00ee
+poss_subst	 x00eb x0097
+poss_subst	 x00ef x00a3
+poss_subst	 x00ea x0096
+
+
+

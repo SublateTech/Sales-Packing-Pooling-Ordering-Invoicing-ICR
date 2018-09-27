@@ -1,0 +1,8 @@
+D:\Signature.com\SigData\Signature.UPS.dll
+D:\Signature.com\SigData\Signature.UPS.pdb
+D:\WAP - Copy\Signature\Signature.UPS\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Signature\Signature.UPS\obj\Debug\Signature.UPS.dll
+D:\WAP - Copy\Signature\Signature.UPS\obj\Debug\Signature.UPS.pdb
+D:\SigData\Signature\Signature.UPS\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Signature\Signature.UPS\obj\Debug\Signature.UPS.dll
+D:\SigData\Signature\Signature.UPS\obj\Debug\Signature.UPS.pdb

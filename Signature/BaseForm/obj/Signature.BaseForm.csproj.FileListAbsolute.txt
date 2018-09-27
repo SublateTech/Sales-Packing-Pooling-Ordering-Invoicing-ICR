@@ -1,0 +1,15 @@
+D:\Adobe\Signature\BaseForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe\Signature\BaseForm\obj\Debug\Kobush.Windows.Forms.DemoForm.resources
+D:\Adobe\Signature\BaseForm\obj\Debug\Kobush.Windows.Forms.FormStyleEditorControl.resources
+D:\Adobe\Signature\BaseForm\obj\Debug\Kobush.Windows.Forms.Properties.Resources.resources
+D:\Adobe\Signature\BaseForm\obj\Debug\Signature.BaseForm.csproj.GenerateResource.Cache
+D:\Adobe\Signature\BaseForm\bin\Debug\WMP11.fsl
+D:\Adobe\Signature\BaseForm\bin\Debug\CustomBorderForm.exe.config
+D:\Adobe\Signature\BaseForm\bin\Debug\CustomBorderForm.exe
+D:\Adobe\Signature\BaseForm\bin\Debug\CustomBorderForm.pdb
+D:\Signature.com\SigData\WMP11.fsl
+D:\Signature.com\SigData\Kobush.Windows.Forms.dll.config
+D:\Signature.com\SigData\Kobush.Windows.Forms.dll
+D:\Signature.com\SigData\Kobush.Windows.Forms.pdb
+D:\Adobe\Signature\BaseForm\obj\Debug\Kobush.Windows.Forms.dll
+D:\Adobe\Signature\BaseForm\obj\Debug\Kobush.Windows.Forms.pdb

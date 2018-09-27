@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SigData">
+</Property><Property Name="Solution File" Value="D:\SigData\SigData.sln">
+</Property><Property Name="Date" Value="lunes, 27 de febrero de 2012">
+</Property><Property Name="Time" Value="21:20:49 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\Signature.Twain.csproj" Description="Project file successfully backed up as D:\SigData\Backup\Signature.Twain.csproj">
+</Event><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\Signature.Twain.csproj.user" Description="Project user file successfully backed up as D:\SigData\Backup\Signature.Twain.csproj.user">
+</Event><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\GdiPlusLib.cs" Description="File successfully backed up as D:\SigData\Backup\GdiPlusLib.cs">
+</Event><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\InfoForm.cs" Description="File successfully backed up as D:\SigData\Backup\InfoForm.cs">
+</Event><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\PicForm.cs" Description="File successfully backed up as D:\SigData\Backup\PicForm.cs">
+</Event><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\TwainDefs.cs" Description="File successfully backed up as D:\SigData\Backup\TwainDefs.cs">
+</Event><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\TwainLib.cs" Description="File successfully backed up as D:\SigData\Backup\TwainLib.cs">
+</Event><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\InfoForm.resx" Description="File successfully backed up as D:\SigData\Backup\InfoForm.resx">
+</Event><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\PicForm.resx" Description="File successfully backed up as D:\SigData\Backup\PicForm.resx">
+</Event><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\Signature.Twain.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Signature.Twain" Source="Signature\Twain\Signature.Twain.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Signature.Twain" Source="Signature\Twain\Signature.Twain.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

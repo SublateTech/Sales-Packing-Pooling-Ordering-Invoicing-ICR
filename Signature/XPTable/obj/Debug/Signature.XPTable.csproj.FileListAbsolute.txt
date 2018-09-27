@@ -1,0 +1,10 @@
+D:\WAP - Copy\Signature\XPTable\bin\Debug\XPTable.dll
+D:\WAP - Copy\Signature\XPTable\bin\Debug\XPTable.pdb
+D:\WAP - Copy\Signature\XPTable\bin\Debug\XPTable.xml
+D:\WAP - Copy\Signature\XPTable\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Signature\XPTable\obj\Debug\XPTable.Editors.DropDownContainer.resources
+D:\WAP - Copy\Signature\XPTable\obj\Debug\XPTable.Models.Table.resources
+D:\WAP - Copy\Signature\XPTable\obj\Debug\XPTable.Models.TableModel.resources
+D:\WAP - Copy\Signature\XPTable\obj\Debug\Signature.XPTable.csproj.GenerateResource.Cache
+D:\WAP - Copy\Signature\XPTable\obj\Debug\XPTable.dll
+D:\WAP - Copy\Signature\XPTable\obj\Debug\XPTable.pdb

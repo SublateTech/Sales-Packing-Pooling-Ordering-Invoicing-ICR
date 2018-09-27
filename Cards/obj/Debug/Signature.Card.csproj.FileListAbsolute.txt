@@ -1,0 +1,10 @@
+D:\Signature.com\SigData\Signature.Card.pdb
+D:\Adobe 2008\Cards\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\Cards\obj\Debug\Signature.Card.pdb
+D:\Signature.com\SigData\Signature.Card.dll
+D:\Adobe 2008\Cards\obj\Debug\Signature.Card.dll
+D:\SigData\bin\Signature.Card.dll
+D:\SigData\bin\Signature.Card.pdb
+D:\SigData\Cards\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Cards\obj\Debug\Signature.Card.dll
+D:\SigData\Cards\obj\Debug\Signature.Card.pdb

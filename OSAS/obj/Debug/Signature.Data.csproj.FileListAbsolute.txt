@@ -1,0 +1,32 @@
+D:\WAP - Copy\OSAS\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\OSAS\obj\Debug\Signature.Data.csproj.ResolveComReference.cache
+D:\WAP - Copy\OSAS\obj\Debug\Signature.Data.dll
+D:\WAP - Copy\OSAS\obj\Debug\Signature.Data.pdb
+C:\Signature.com\SigData\Signature.Data.dll.config
+C:\Signature.com\SigData\Signature.Data.dll
+C:\Signature.com\SigData\Signature.Data.pdb
+C:\Adobe 2008\OSAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Adobe 2008\OSAS\obj\Debug\Signature.Data.csproj.ResolveComReference.cache
+C:\Adobe 2008\OSAS\obj\Debug\Signature.Data.dll
+C:\Adobe 2008\OSAS\obj\Debug\Signature.Data.pdb
+F:\Signature.com\SigData\Signature.Data.dll.config
+F:\Signature.com\SigData\Signature.Data.dll
+F:\Signature.com\SigData\Signature.Data.pdb
+F:\Adobe 2008\OSAS\obj\Debug\ResolveAssemblyReference.cache
+F:\Adobe 2008\OSAS\obj\Debug\Signature.Data.csproj.ResolveComReference.cache
+F:\Adobe 2008\OSAS\obj\Debug\Signature.Data.dll
+F:\Adobe 2008\OSAS\obj\Debug\Signature.Data.pdb
+D:\Signature.com\SigData\Signature.Data.dll.config
+D:\Signature.com\SigData\Signature.Data.dll
+D:\Signature.com\SigData\Signature.Data.pdb
+D:\Adobe 2008\OSAS\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\OSAS\obj\Debug\Signature.Data.csproj.ResolveComReference.cache
+D:\Adobe 2008\OSAS\obj\Debug\Signature.Data.dll
+D:\Adobe 2008\OSAS\obj\Debug\Signature.Data.pdb
+D:\SigData\bin\Signature.Data.dll.config
+D:\SigData\bin\Signature.Data.dll
+D:\SigData\bin\Signature.Data.pdb
+D:\SigData\OSAS\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\OSAS\obj\Debug\Signature.Data.csproj.ResolveComReference.cache
+D:\SigData\OSAS\obj\Debug\Signature.Data.dll
+D:\SigData\OSAS\obj\Debug\Signature.Data.pdb

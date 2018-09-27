@@ -1,0 +1,8 @@
+D:\SigData\bin\Signature.Twain.dll
+D:\SigData\bin\Signature.Twain.pdb
+D:\SigData\Signature\Twain\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Signature\Twain\obj\Debug\Signature.Twain.InfoForm.resources
+D:\SigData\Signature\Twain\obj\Debug\Signature.Twain.PicForm.resources
+D:\SigData\Signature\Twain\obj\Debug\Signature.Twain.csproj.GenerateResource.Cache
+D:\SigData\Signature\Twain\obj\Debug\Signature.Twain.dll
+D:\SigData\Signature\Twain\obj\Debug\Signature.Twain.pdb

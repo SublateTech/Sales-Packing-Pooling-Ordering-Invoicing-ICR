@@ -1,0 +1,26 @@
+D:\Signature.com\SigData\Signature.Windows.Forms.dll
+D:\Signature.com\SigData\Signature.Windows.Forms.pdb
+D:\WAP - Copy\Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Controls\obj\Debug\Signature.Windows.Forms.Properties.Resources.resources
+D:\WAP - Copy\Controls\obj\Debug\Signature.Controls.csproj.GenerateResource.Cache
+D:\WAP - Copy\Controls\obj\Debug\Signature.Windows.Forms.dll.licenses
+D:\WAP - Copy\Controls\obj\Debug\Signature.Windows.Forms.dll
+D:\WAP - Copy\Controls\obj\Debug\Signature.Windows.Forms.pdb
+D:\Adobe 2008\Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\Controls\obj\Debug\Signature.Windows.Forms.Properties.Resources.resources
+D:\Adobe 2008\Controls\obj\Debug\Signature.Controls.csproj.GenerateResource.Cache
+D:\Adobe 2008\Controls\obj\Debug\Signature.Windows.Forms.dll.licenses
+D:\Adobe 2008\Controls\obj\Debug\Signature.Windows.Forms.dll
+D:\Adobe 2008\Controls\obj\Debug\Signature.Windows.Forms.pdb
+D:\Adobe 2008\Controls\obj\Debug\Signature.Windows.Forms.FadingForm.resources
+D:\Adobe 2008\Controls\obj\Debug\Signature.Windows.Forms.GradientForm.resources
+D:\SigData\bin\Signature.Windows.Forms.dll
+D:\SigData\bin\Signature.Windows.Forms.pdb
+D:\SigData\Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Controls\obj\Debug\Signature.Windows.Forms.FadingForm.resources
+D:\SigData\Controls\obj\Debug\Signature.Windows.Forms.GradientForm.resources
+D:\SigData\Controls\obj\Debug\Signature.Windows.Forms.Properties.Resources.resources
+D:\SigData\Controls\obj\Debug\Signature.Controls.csproj.GenerateResource.Cache
+D:\SigData\Controls\obj\Debug\Signature.Windows.Forms.dll.licenses
+D:\SigData\Controls\obj\Debug\Signature.Windows.Forms.dll
+D:\SigData\Controls\obj\Debug\Signature.Windows.Forms.pdb

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Signature.Classes.csproj.ResolveComReference.cache
+obj\Debug\Signature.Classes.Properties.Resources.resources
+obj\Debug\Signature.Classes.csproj.GenerateResource.Cache
+obj\Debug\Signature.Classes.dll.licenses
+obj\Debug\Signature.Classes.dll
+obj\Debug\Signature.Classes.pdb
+..\..\..\Signature.com\SigData\Signature.Classes.dll.config
+..\..\..\Signature.com\SigData\Signature.Classes.dll
+..\..\..\Signature.com\SigData\Signature.Classes.pdb

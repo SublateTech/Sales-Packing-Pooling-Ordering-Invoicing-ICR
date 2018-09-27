@@ -1,0 +1,10 @@
+D:\C#\DWMRendererProvider\Maf.Windows.Forms.Vista\bin\Debug\Maf.Windows.Forms.Vista.dll
+D:\C#\DWMRendererProvider\Maf.Windows.Forms.Vista\bin\Debug\Maf.Windows.Forms.Vista.pdb
+D:\C#\DWMRendererProvider\Maf.Windows.Forms.Vista\bin\Debug\Maf.Drawing.dll
+D:\C#\DWMRendererProvider\Maf.Windows.Forms.Vista\bin\Debug\Maf.Drawing.pdb
+D:\C#\DWMRendererProvider\Maf.Windows.Forms.Vista\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\DWMRendererProvider\Maf.Windows.Forms.Vista\obj\Debug\Maf.Windows.Forms.DWM.Properties.Resources.resources
+D:\C#\DWMRendererProvider\Maf.Windows.Forms.Vista\obj\Debug\Maf.Windows.Forms.DWM.TransparentForm.resources
+D:\C#\DWMRendererProvider\Maf.Windows.Forms.Vista\obj\Debug\Maf.Windows.Forms.DWM.csproj.GenerateResource.Cache
+D:\C#\DWMRendererProvider\Maf.Windows.Forms.Vista\obj\Debug\Maf.Windows.Forms.Vista.dll
+D:\C#\DWMRendererProvider\Maf.Windows.Forms.Vista\obj\Debug\Maf.Windows.Forms.Vista.pdb

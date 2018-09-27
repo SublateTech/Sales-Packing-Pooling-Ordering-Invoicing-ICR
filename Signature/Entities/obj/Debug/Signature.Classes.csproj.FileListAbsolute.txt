@@ -1,0 +1,44 @@
+D:\WAP - Copy\Signature\Entities\obj\Debug\ResolveAssemblyReference.cache
+D:\WAP - Copy\Signature\Entities\obj\Debug\Signature.Classes.csproj.ResolveComReference.cache
+D:\WAP - Copy\Signature\Entities\obj\Debug\Signature.Classes.Properties.Resources.resources
+D:\WAP - Copy\Signature\Entities\obj\Debug\Signature.Classes.csproj.GenerateResource.Cache
+D:\WAP - Copy\Signature\Entities\obj\Debug\Signature.Classes.dll.licenses
+D:\WAP - Copy\Signature\Entities\obj\Debug\Signature.Classes.dll
+D:\WAP - Copy\Signature\Entities\obj\Debug\Signature.Classes.pdb
+C:\Signature.com\SigData\Signature.Classes.dll.config
+C:\Signature.com\SigData\Signature.Classes.dll
+C:\Signature.com\SigData\Signature.Classes.pdb
+C:\Adobe 2008\Signature\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.csproj.ResolveComReference.cache
+C:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.Properties.Resources.resources
+C:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.csproj.GenerateResource.Cache
+C:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.dll.licenses
+C:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.dll
+C:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.pdb
+F:\Adobe 2008\Signature\Entities\obj\Debug\ResolveAssemblyReference.cache
+F:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.csproj.ResolveComReference.cache
+F:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.Properties.Resources.resources
+F:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.csproj.GenerateResource.Cache
+F:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.dll.licenses
+F:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.dll
+F:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.pdb
+D:\Adobe 2008\Signature\Entities\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.csproj.ResolveComReference.cache
+D:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.Properties.Resources.resources
+D:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.csproj.GenerateResource.Cache
+D:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.dll.licenses
+D:\Signature.com\SigData\Signature.Classes.dll.config
+D:\Signature.com\SigData\Signature.Classes.dll
+D:\Signature.com\SigData\Signature.Classes.pdb
+D:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.dll
+D:\Adobe 2008\Signature\Entities\obj\Debug\Signature.Classes.pdb
+D:\SigData\Signature\Entities\obj\Debug\ResolveAssemblyReference.cache
+D:\SigData\Signature\Entities\obj\Debug\Signature.Classes.csproj.ResolveComReference.cache
+D:\SigData\Signature\Entities\obj\Debug\Signature.Classes.Properties.Resources.resources
+D:\SigData\Signature\Entities\obj\Debug\Signature.Classes.csproj.GenerateResource.Cache
+D:\SigData\Signature\Entities\obj\Debug\Signature.Classes.dll.licenses
+D:\SigData\bin\Signature.Classes.dll.config
+D:\SigData\bin\Signature.Classes.dll
+D:\SigData\bin\Signature.Classes.pdb
+D:\SigData\Signature\Entities\obj\Debug\Signature.Classes.dll
+D:\SigData\Signature\Entities\obj\Debug\Signature.Classes.pdb
